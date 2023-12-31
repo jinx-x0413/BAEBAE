@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"H:/Project/MigrationTest/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"H:/Project/MigrationTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/1G/02UQZ35NKTDOWXZYM76XP5.uasset",
+				"H:/Project/MigrationTest/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"H:/Project/MigrationTest/Content/Blueprints/GameMode/BP_GM.uasset",
+				"H:/Project/MigrationTest/Content/Blueprints/Levels/Game.umap",
+				"H:/Project/MigrationTest/Content/Blueprints/BP_PCharacter.uasset",
+				"H:/Project/MigrationTest/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"H:/Project/MigrationTest/Content/Characters/Mannequins/Meshes/SKM_Manny.uasset"
+			]
+		}
+	]
+}
