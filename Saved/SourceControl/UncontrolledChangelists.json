@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"H:/Epic Games/Project/Gamemode/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"H:/Epic Games/Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset",
+				"H:/Epic Games/Project/Gamemode/Content/Blueprints/GameMode/BP_GI.uasset",
+				"H:/Epic Games/Project/Gamemode/Content/Blueprints/Enum/E_Maps.uasset",
+				"H:/Epic Games/Project/Gamemode/Content/Blueprints/Enum/E_Difficulties.uasset",
+				"H:/Epic Games/Project/Gamemode/Content/Blueprints/Levels/Map01.umap",
+				"H:/Epic Games/Project/Gamemode/Content/Blueprints/Levels/Menu.umap",
+				"H:/Epic Games/Project/Gamemode/Content/Blueprints/Levels/Game.umap",
+				"H:/Epic Games/Project/Gamemode/Content/Blueprints/UMG/UMG_Menu.uasset",
+				"H:/Epic Games/Project/Gamemode/Content/Blueprints/UMG/UMG_Game.uasset",
+				"H:/Epic Games/Project/Gamemode/Content/Blueprints/GameMode/BP_UMG_GM.uasset",
+				"H:/Epic Games/Project/Gamemode/Content/Blueprints/Enum/E_Levels.uasset"
+			]
+		}
+	]
+}
