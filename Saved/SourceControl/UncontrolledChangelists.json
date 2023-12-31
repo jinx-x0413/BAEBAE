@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"H:/Project/Gamemode/Content/Blueprints/UMG/UMG_Menu.uasset",
+				"H:/Project/Gamemode/Content/Blueprints/GameMode/BP_GI.uasset",
+				"H:/Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset",
+				"H:/Project/Gamemode/Content/Blueprints/Levels/Game.umap",
+				"H:/Project/Gamemode/Content/Blueprints/UMG/UMG_Manual.uasset",
+				"H:/Project/Gamemode/Content/Blueprints/GameMode/BP_GS.uasset",
+				"H:/Project/Gamemode/Content/Blueprints/GameMode/BP_PS.uasset",
 				"H:/Epic Games/Project/Gamemode/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
 				"H:/Epic Games/Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset",
 				"H:/Epic Games/Project/Gamemode/Content/Blueprints/GameMode/BP_GI.uasset",

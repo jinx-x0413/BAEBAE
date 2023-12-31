@@ -1179,3 +1179,1585 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.12.31-07.39.59:407][884]LogSlate: Took 0.000097 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
 [2023.12.31-07.40.01:047][ 61]LogSlate: Took 0.000146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
 [2023.12.31-07.41.31:339][984]LogDerivedDataCache: C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.047 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 815 files in 1196 folders with total size 35 MiB.
+[2023.12.31-07.46.26:757][410]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-07.46.26:779][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UMG/UMG_Menu" FILE="../../../../../Project/Gamemode/Content/Blueprints/UMG/UMG_Menu.uasset" SILENT=true
+[2023.12.31-07.46.26:787][410]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.008332 seconds
+[2023.12.31-07.46.26:815][410]LogSavePackage: Moving output files for package: /Game/Blueprints/UMG/UMG_Menu
+[2023.12.31-07.46.26:815][410]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/UMG_Menu4C2B0B2F4EEE7E5697A9D79793EEE3E4.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/UMG/UMG_Menu.uasset'
+[2023.12.31-07.46.26:820][410]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms
+[2023.12.31-07.46.26:821][410]AssetCheck: New page: Asset Save: UMG_Menu
+[2023.12.31-07.46.26:821][410]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UMG/UMG_Menu.UMG_Menu
+[2023.12.31-07.46.28:954][659]BlueprintLog: New page: Compile UMG_Menu
+[2023.12.31-07.46.28:988][659]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.12.31-07.46.41:105][ 10]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/GameMode/BP_GI.BP_GI
+[2023.12.31-07.46.41:106][ 10]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.31-07.46.41:106][ 10]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.31-07.46.42:638][173]LogSlate: Window 'BP_GI' being destroyed
+[2023.12.31-07.46.43:671][297]BlueprintLog: New page: Compile UMG_Menu
+[2023.12.31-07.46.43:697][297]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.12.31-07.46.44:266][358]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-07.46.44:286][358]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UMG/UMG_Menu" FILE="../../../../../Project/Gamemode/Content/Blueprints/UMG/UMG_Menu.uasset" SILENT=true
+[2023.12.31-07.46.44:314][358]LogSavePackage: Moving output files for package: /Game/Blueprints/UMG/UMG_Menu
+[2023.12.31-07.46.44:314][358]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/UMG_MenuDA5539474F2A9CC9BF1C3E8F99BE95DC.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/UMG/UMG_Menu.uasset'
+[2023.12.31-07.46.44:319][358]LogFileHelpers: InternalPromptForCheckoutAndSave took 52 ms (total: 115 ms)
+[2023.12.31-07.46.44:320][358]AssetCheck: New page: Asset Save: UMG_Menu
+[2023.12.31-07.46.44:320][358]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UMG/UMG_Menu.UMG_Menu
+[2023.12.31-07.46.48:834][899]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.12.31-07.46.48:834][899]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.31-07.46.48:840][899]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/GameMode/BP_GI.BP_GI
+[2023.12.31-07.46.48:841][899]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.31-07.46.48:841][899]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.31-07.46.52:773][350]LogSlate: Took 0.000087 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.12.31-07.47.16:809][209]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-07.47.16:842][209]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/BP_GI" FILE="../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GI.uasset" SILENT=true
+[2023.12.31-07.47.16:843][209]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_GI
+[2023.12.31-07.47.16:843][209]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/BP_GI91612D134447E458327EC18F735F84EA.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GI.uasset'
+[2023.12.31-07.47.16:847][209]LogFileHelpers: InternalPromptForCheckoutAndSave took 37 ms (total: 153 ms)
+[2023.12.31-07.47.16:848][209]AssetCheck: New page: Asset Save: BP_GI
+[2023.12.31-07.47.16:848][209]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameMode/BP_GI.BP_GI
+[2023.12.31-07.47.17:237][256]BlueprintLog: New page: Compile BP_GI
+[2023.12.31-07.47.17:250][256]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.12.31-07.47.18:130][358]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-07.47.18:149][358]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/BP_GI" FILE="../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GI.uasset" SILENT=true
+[2023.12.31-07.47.18:150][358]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_GI
+[2023.12.31-07.47.18:150][358]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/BP_GI5733983240D40D021E076DB927332AD1.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GI.uasset'
+[2023.12.31-07.47.18:155][358]LogFileHelpers: InternalPromptForCheckoutAndSave took 24 ms (total: 177 ms)
+[2023.12.31-07.47.18:155][358]AssetCheck: New page: Asset Save: BP_GI
+[2023.12.31-07.47.18:155][358]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameMode/BP_GI.BP_GI
+[2023.12.31-07.47.24:561][124]BlueprintLog: New page: Compile BP_GI
+[2023.12.31-07.47.24:575][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.12.31-07.47.24:918][161]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-07.47.24:941][161]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/BP_GI" FILE="../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GI.uasset" SILENT=true
+[2023.12.31-07.47.24:943][161]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_GI
+[2023.12.31-07.47.24:943][161]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/BP_GIEE30784E4219B230E1516CB32BF42053.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GI.uasset'
+[2023.12.31-07.47.24:947][161]LogFileHelpers: InternalPromptForCheckoutAndSave took 28 ms (total: 206 ms)
+[2023.12.31-07.47.24:948][161]AssetCheck: New page: Asset Save: BP_GI
+[2023.12.31-07.47.24:948][161]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameMode/BP_GI.BP_GI
+[2023.12.31-07.47.46:865][776]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-07.47.46:903][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UMG/UMG_Menu" FILE="../../../../../Project/Gamemode/Content/Blueprints/UMG/UMG_Menu.uasset" SILENT=true
+[2023.12.31-07.47.46:931][776]LogSavePackage: Moving output files for package: /Game/Blueprints/UMG/UMG_Menu
+[2023.12.31-07.47.46:931][776]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/UMG_MenuCCC469214025E3DD50A4F09EDD86791A.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/UMG/UMG_Menu.uasset'
+[2023.12.31-07.47.46:936][776]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 277 ms)
+[2023.12.31-07.47.46:938][776]AssetCheck: New page: Asset Save: UMG_Menu
+[2023.12.31-07.47.46:938][776]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UMG/UMG_Menu.UMG_Menu
+[2023.12.31-07.47.47:436][836]BlueprintLog: New page: Compile UMG_Menu
+[2023.12.31-07.47.47:469][836]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.12.31-07.48.24:481][188]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-07.48.24:508][188]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/BP_GI" FILE="../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GI.uasset" SILENT=true
+[2023.12.31-07.48.24:515][188]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_GI
+[2023.12.31-07.48.24:515][188]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/BP_GID5CCDC0F4A161C68BF736AB4BB66A31E.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GI.uasset'
+[2023.12.31-07.48.24:519][188]LogFileHelpers: InternalPromptForCheckoutAndSave took 38 ms (total: 315 ms)
+[2023.12.31-07.48.24:520][188]AssetCheck: New page: Asset Save: BP_GI
+[2023.12.31-07.48.24:520][188]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameMode/BP_GI.BP_GI
+[2023.12.31-07.48.25:273][278]BlueprintLog: New page: Compile BP_GI
+[2023.12.31-07.48.25:286][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.12.31-07.49.04:674][904]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-07.49.04:711][904]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UMG/UMG_Menu" FILE="../../../../../Project/Gamemode/Content/Blueprints/UMG/UMG_Menu.uasset" SILENT=true
+[2023.12.31-07.49.04:740][904]LogSavePackage: Moving output files for package: /Game/Blueprints/UMG/UMG_Menu
+[2023.12.31-07.49.04:740][904]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/UMG_Menu2B0B47BC47B2FD8D718B338818EB55C2.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/UMG/UMG_Menu.uasset'
+[2023.12.31-07.49.04:745][904]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 385 ms)
+[2023.12.31-07.49.04:745][904]AssetCheck: New page: Asset Save: UMG_Menu
+[2023.12.31-07.49.04:745][904]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UMG/UMG_Menu.UMG_Menu
+[2023.12.31-07.49.05:353][977]BlueprintLog: New page: Compile UMG_Menu
+[2023.12.31-07.49.05:384][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.12.31-07.49.05:958][ 37]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-07.49.05:984][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UMG/UMG_Menu" FILE="../../../../../Project/Gamemode/Content/Blueprints/UMG/UMG_Menu.uasset" SILENT=true
+[2023.12.31-07.49.06:012][ 37]LogSavePackage: Moving output files for package: /Game/Blueprints/UMG/UMG_Menu
+[2023.12.31-07.49.06:013][ 37]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/UMG_Menu75ACC74D4DA5AF94A181508B50990534.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/UMG/UMG_Menu.uasset'
+[2023.12.31-07.49.06:017][ 37]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 445 ms)
+[2023.12.31-07.49.06:019][ 37]AssetCheck: New page: Asset Save: UMG_Menu
+[2023.12.31-07.49.06:019][ 37]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UMG/UMG_Menu.UMG_Menu
+[2023.12.31-07.49.06:274][ 65]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-07.49.06:291][ 65]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UMG/UMG_Menu" FILE="../../../../../Project/Gamemode/Content/Blueprints/UMG/UMG_Menu.uasset" SILENT=true
+[2023.12.31-07.49.06:320][ 65]LogSavePackage: Moving output files for package: /Game/Blueprints/UMG/UMG_Menu
+[2023.12.31-07.49.06:320][ 65]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/UMG_Menu5C9494684490C5F3BC4466BEB322DE0A.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/UMG/UMG_Menu.uasset'
+[2023.12.31-07.49.06:324][ 65]LogFileHelpers: InternalPromptForCheckoutAndSave took 49 ms (total: 495 ms)
+[2023.12.31-07.49.06:325][ 65]AssetCheck: New page: Asset Save: UMG_Menu
+[2023.12.31-07.49.06:325][ 65]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UMG/UMG_Menu.UMG_Menu
+[2023.12.31-07.49.24:694][151]BlueprintLog: New page: Compile BP_GI
+[2023.12.31-07.49.24:717][151]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.12.31-07.49.28:064][540]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-07.49.28:083][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/BP_GI" FILE="../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GI.uasset" SILENT=true
+[2023.12.31-07.49.28:086][540]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_GI
+[2023.12.31-07.49.28:086][540]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/BP_GIFC1FB4C84A6E29D76CD643A3B65BA291.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GI.uasset'
+[2023.12.31-07.49.28:090][540]LogFileHelpers: InternalPromptForCheckoutAndSave took 26 ms (total: 521 ms)
+[2023.12.31-07.49.28:091][540]AssetCheck: New page: Asset Save: BP_GI
+[2023.12.31-07.49.28:091][540]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameMode/BP_GI.BP_GI
+[2023.12.31-07.49.35:066][353]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-07.49.35:092][353]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UMG/UMG_Menu" FILE="../../../../../Project/Gamemode/Content/Blueprints/UMG/UMG_Menu.uasset" SILENT=true
+[2023.12.31-07.49.35:121][353]LogSavePackage: Moving output files for package: /Game/Blueprints/UMG/UMG_Menu
+[2023.12.31-07.49.35:121][353]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/UMG_Menu99FCA52C45AC85319836A8AD5FA8DFFD.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/UMG/UMG_Menu.uasset'
+[2023.12.31-07.49.35:127][353]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 583 ms)
+[2023.12.31-07.49.35:128][353]AssetCheck: New page: Asset Save: UMG_Menu
+[2023.12.31-07.49.35:128][353]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UMG/UMG_Menu.UMG_Menu
+[2023.12.31-07.49.35:680][419]BlueprintLog: New page: Compile UMG_Menu
+[2023.12.31-07.49.35:713][419]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.12.31-07.49.36:209][460]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-07.49.36:243][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UMG/UMG_Menu" FILE="../../../../../Project/Gamemode/Content/Blueprints/UMG/UMG_Menu.uasset" SILENT=true
+[2023.12.31-07.49.36:272][460]LogSavePackage: Moving output files for package: /Game/Blueprints/UMG/UMG_Menu
+[2023.12.31-07.49.36:272][460]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/UMG_MenuE410679048058A6C7673F4920FC77E6C.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/UMG/UMG_Menu.uasset'
+[2023.12.31-07.49.36:278][460]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 651 ms)
+[2023.12.31-07.49.36:279][460]AssetCheck: New page: Asset Save: UMG_Menu
+[2023.12.31-07.49.36:279][460]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UMG/UMG_Menu.UMG_Menu
+[2023.12.31-07.49.41:224][ 47]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/GameMode/BP_GM.BP_GM
+[2023.12.31-07.49.41:224][ 47]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.31-07.49.41:224][ 47]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.31-07.49.47:119][685]BlueprintLog: New page: Compile BP_GM
+[2023.12.31-07.49.47:142][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.12.31-07.50.25:642][ 49]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-07.50.25:674][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/BP_GM" FILE="../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset" SILENT=true
+[2023.12.31-07.50.25:677][ 49]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_GM
+[2023.12.31-07.50.25:678][ 49]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/BP_GM358D961240D65E89DC1E019C920C6CFB.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset'
+[2023.12.31-07.50.25:682][ 49]LogFileHelpers: InternalPromptForCheckoutAndSave took 40 ms (total: 691 ms)
+[2023.12.31-07.50.25:683][ 49]AssetCheck: New page: Asset Save: BP_GM
+[2023.12.31-07.50.25:683][ 49]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameMode/BP_GM.BP_GM
+[2023.12.31-07.50.26:412][137]BlueprintLog: New page: Compile BP_GM
+[2023.12.31-07.50.26:434][137]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.12.31-07.50.27:257][229]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-07.50.27:281][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/BP_GM" FILE="../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset" SILENT=true
+[2023.12.31-07.50.27:285][229]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_GM
+[2023.12.31-07.50.27:285][229]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/BP_GM5255C8694EE304933A2CAE9D52BAFBEB.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset'
+[2023.12.31-07.50.27:290][229]LogFileHelpers: InternalPromptForCheckoutAndSave took 32 ms (total: 724 ms)
+[2023.12.31-07.50.27:290][229]AssetCheck: New page: Asset Save: BP_GM
+[2023.12.31-07.50.27:290][229]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameMode/BP_GM.BP_GM
+[2023.12.31-07.50.31:801][692]LogSlate: External Image Picker: DecompressImage failed
+[2023.12.31-07.50.31:918][692]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.31-07.50.34:773][ 15]LogSlate: Took 0.000082 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.12.31-07.50.43:239][  2]LogSlate: Window 'Project Settings' being destroyed
+[2023.12.31-07.50.43:241][  2]LogSlate: Window 'Project Settings' being destroyed
+[2023.12.31-07.50.46:708][410]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-07.50.46:741][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/BP_GI" FILE="../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GI.uasset" SILENT=true
+[2023.12.31-07.50.46:743][410]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_GI
+[2023.12.31-07.50.46:743][410]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/BP_GIEDE1F1FF47F648F2313BF1AADEE0E6D9.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GI.uasset'
+[2023.12.31-07.50.46:748][410]LogFileHelpers: InternalPromptForCheckoutAndSave took 39 ms (total: 764 ms)
+[2023.12.31-07.50.46:749][410]AssetCheck: New page: Asset Save: BP_GI
+[2023.12.31-07.50.46:749][410]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameMode/BP_GI.BP_GI
+[2023.12.31-07.50.47:718][527]BlueprintLog: New page: Compile BP_GI
+[2023.12.31-07.50.47:739][527]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.12.31-07.50.56:107][494]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.12.31-07.50.56:132][494]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.31-07.50.56:133][494]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Blueprints/Levels/Game.Game
+[2023.12.31-07.50.56:133][494]Cmd: MAP LOAD FILE="../../../../../Project/Gamemode/Content/Blueprints/Levels/Game.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.12.31-07.50.56:133][494]LightingResults: New page: Lighting Build
+[2023.12.31-07.50.56:133][494]LoadErrors: New page: Loading map: Game.umap
+[2023.12.31-07.50.56:174][494]LogWorld: UWorld::CleanupWorld for Menu, bSessionEnded=true, bCleanupResources=true
+[2023.12.31-07.50.56:174][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.31-07.50.56:174][494]MapCheck: New page: Map Check
+[2023.12.31-07.50.56:174][494]LightingResults: New page: Lighting Build
+[2023.12.31-07.50.56:184][494]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.31-07.50.56:186][494]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.12.31-07.50.56:187][494]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2023.12.31-07.50.56:187][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.31-07.50.56:199][494]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.12.31-07.50.56:213][494]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.12.31-07.50.56:214][494]LogAudio: Display: Audio Device (ID: 1) registered with world 'Game'.
+[2023.12.31-07.50.56:214][494]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.31-07.50.56:214][494]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.31-07.50.56:215][494]LogAIModule: Creating AISystem for world Game
+[2023.12.31-07.50.56:243][494]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.12.31-07.50.56:258][494]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.12.31-07.50.56:261][494]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.12.31-07.50.56:261][494]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.053ms to complete.
+[2023.12.31-07.51.00:945][ 34]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.31-07.51.00:950][ 34]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.31-07.51.00:950][ 34]PIE: New page: PIE session: Game (2024. 1. 1. 오전 1:51:00)
+[2023.12.31-07.51.00:953][ 34]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.12.31-07.51.00:953][ 34]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2023.12.31-07.51.00:953][ 34]LogPlayLevel: Creating play world package: /Game/Blueprints/Levels/UEDPIE_0_Game
+[2023.12.31-07.51.00:953][ 34]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000547s)
+[2023.12.31-07.51.00:953][ 34]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Levels/Game.Game to /Game/Blueprints/Levels/UEDPIE_0_Game.Game (0.000574s)
+[2023.12.31-07.51.00:966][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.12.31-07.51.00:968][ 34]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.31-07.51.00:968][ 34]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.31-07.51.00:969][ 34]LogAIModule: Creating AISystem for world Game
+[2023.12.31-07.51.00:969][ 34]LogPlayLevel: PIE: World Init took: (0.000792s)
+[2023.12.31-07.51.00:969][ 34]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.12.31-07.51.00:969][ 34]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.31-07.51.00:969][ 34]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.31-07.51.00:969][ 34]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.31-07.51.00:969][ 34]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.31-07.51.00:969][ 34]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.31-07.51.00:969][ 34]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.31-07.51.00:969][ 34]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.31-07.51.00:969][ 34]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.31-07.51.00:969][ 34]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.31-07.51.00:970][ 34]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.31-07.51.00:970][ 34]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.31-07.51.00:971][ 34]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.31-07.51.00:995][ 34]LogAudioMixer: Display: Using Audio Hardware Device 스피커1(Realtek High Definition Audio)
+[2023.12.31-07.51.00:996][ 34]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.31-07.51.00:996][ 34]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.31-07.51.00:996][ 34]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.31-07.51.00:996][ 34]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.12.31-07.51.00:996][ 34]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.12.31-07.51.00:997][ 34]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.12.31-07.51.00:997][ 34]LogInit: FAudioDevice initialized with ID 2.
+[2023.12.31-07.51.00:997][ 34]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.12.31-07.51.00:997][ 34]LogAudio: Display: Audio Device (ID: 2) registered with world 'Game'.
+[2023.12.31-07.51.00:998][ 34]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2023.12.31-07.51.01:015][ 34]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.31-07.51.01:015][ 34]LogLoad: Game class is 'BP_GM_C'
+[2023.12.31-07.51.01:015][ 34]LogWorld: Bringing World /Game/Blueprints/Levels/UEDPIE_0_Game.Game up for play (max tick rate 0) at 2023.12.31-16.51.01
+[2023.12.31-07.51.01:015][ 34]LogWorld: Bringing up level for play took: 0.000327
+[2023.12.31-07.51.01:017][ 34]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2023.12.31-07.51.01:018][ 34]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.12.31-07.51.01:021][ 34]LogBlueprintUserMessages: [BP_GM_C_0] Inside
+[2023.12.31-07.51.01:021][ 34]LogBlueprintUserMessages: [BP_GM_C_0] 1
+[2023.12.31-07.51.01:022][ 34]PIE: Server logged in
+[2023.12.31-07.51.01:022][ 34]PIE: Play in editor total start time 0.072 seconds.
+[2023.12.31-07.51.01:027][ 34]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.12.31-07.51.02:894][244]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.31-07.51.02:894][244]LogWorld: BeginTearingDown for /Game/Blueprints/Levels/UEDPIE_0_Game
+[2023.12.31-07.51.02:894][244]LogSlate: Window 'Gamemode Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.12.31-07.51.02:896][244]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2023.12.31-07.51.02:896][244]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.31-07.51.02:898][244]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.31-07.51.02:902][244]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.31-07.51.02:915][244]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2023.12.31-07.51.02:915][244]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.12.31-07.51.02:916][244]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.12.31-07.51.02:921][244]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.12.31-07.51.02:964][249]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2023.12.31-07.51.07:374][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.12.31-07.51.09:508][771]LogSlate: Window 'Save Content' being destroyed
+[2023.12.31-07.51.09:513][771]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-07.51.09:540][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Levels/Game" FILE="../../../../../Project/Gamemode/Content/Blueprints/Levels/Game.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.12.31-07.51.09:563][771]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.12.31-07.51.09:565][771]LogSavePackage: Moving output files for package: /Game/Blueprints/Levels/Game
+[2023.12.31-07.51.09:565][771]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/Game620F06B849E466009046DFBBDAFF69A4.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/Levels/Game.umap'
+[2023.12.31-07.51.09:568][771]LogFileHelpers: Saving map 'Game' took 0.029
+[2023.12.31-07.51.09:573][771]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 824 ms)
+[2023.12.31-07.51.09:599][771]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.31-07.51.09:600][771]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Blueprints/Levels/Menu.Menu
+[2023.12.31-07.51.09:600][771]Cmd: MAP LOAD FILE="../../../../../Project/Gamemode/Content/Blueprints/Levels/Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.12.31-07.51.09:600][771]LightingResults: New page: Lighting Build
+[2023.12.31-07.51.09:600][771]LoadErrors: New page: Loading map: Menu.umap
+[2023.12.31-07.51.09:611][771]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2023.12.31-07.51.09:611][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.31-07.51.09:611][771]MapCheck: New page: Map Check
+[2023.12.31-07.51.09:611][771]LightingResults: New page: Lighting Build
+[2023.12.31-07.51.09:621][771]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.31-07.51.09:623][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.12.31-07.51.09:624][771]LogWorld: UWorld::CleanupWorld for Menu, bSessionEnded=true, bCleanupResources=true
+[2023.12.31-07.51.09:624][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.31-07.51.09:638][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.12.31-07.51.09:651][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.12.31-07.51.09:653][771]LogAudio: Display: Audio Device (ID: 1) registered with world 'Menu'.
+[2023.12.31-07.51.09:653][771]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.31-07.51.09:653][771]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.31-07.51.09:653][771]LogAIModule: Creating AISystem for world Menu
+[2023.12.31-07.51.09:681][771]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.12.31-07.51.09:693][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.12.31-07.51.09:695][771]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.12.31-07.51.09:695][771]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.051ms to complete.
+[2023.12.31-07.51.09:703][771]AssetCheck: New page: Asset Save: Game
+[2023.12.31-07.51.10:601][879]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-07.51.10:626][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/BP_GI" FILE="../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GI.uasset" SILENT=true
+[2023.12.31-07.51.10:629][879]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_GI
+[2023.12.31-07.51.10:629][879]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/BP_GI524E553B46DF0AD210C6DDBBD5C819B4.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GI.uasset'
+[2023.12.31-07.51.10:633][879]LogFileHelpers: InternalPromptForCheckoutAndSave took 32 ms (total: 856 ms)
+[2023.12.31-07.51.10:634][879]AssetCheck: New page: Asset Save: BP_GI
+[2023.12.31-07.51.10:634][879]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameMode/BP_GI.BP_GI
+[2023.12.31-07.51.11:270][956]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.31-07.51.11:274][956]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.31-07.51.11:275][956]PIE: New page: PIE session: Menu (2024. 1. 1. 오전 1:51:11)
+[2023.12.31-07.51.11:275][956]LogPlayLevel: Creating play world package: /Game/Blueprints/Levels/UEDPIE_0_Menu
+[2023.12.31-07.51.11:275][956]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000519s)
+[2023.12.31-07.51.11:275][956]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Levels/Menu.Menu to /Game/Blueprints/Levels/UEDPIE_0_Menu.Menu (0.000544s)
+[2023.12.31-07.51.11:286][956]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.12.31-07.51.11:287][956]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.31-07.51.11:287][956]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.31-07.51.11:287][956]LogAIModule: Creating AISystem for world Menu
+[2023.12.31-07.51.11:287][956]LogPlayLevel: PIE: World Init took: (0.000717s)
+[2023.12.31-07.51.11:288][956]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.12.31-07.51.11:288][956]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.31-07.51.11:288][956]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.31-07.51.11:288][956]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.31-07.51.11:288][956]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.31-07.51.11:288][956]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.31-07.51.11:288][956]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.31-07.51.11:288][956]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.31-07.51.11:288][956]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.31-07.51.11:288][956]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.31-07.51.11:288][956]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.31-07.51.11:288][956]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.31-07.51.11:290][956]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.31-07.51.11:313][956]LogAudioMixer: Display: Using Audio Hardware Device 스피커1(Realtek High Definition Audio)
+[2023.12.31-07.51.11:313][956]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.31-07.51.11:313][956]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.31-07.51.11:313][956]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.31-07.51.11:314][956]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.12.31-07.51.11:314][956]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.12.31-07.51.11:315][956]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.12.31-07.51.11:315][956]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.12.31-07.51.11:315][956]LogInit: FAudioDevice initialized with ID 3.
+[2023.12.31-07.51.11:315][956]LogAudio: Display: Audio Device (ID: 3) registered with world 'Menu'.
+[2023.12.31-07.51.11:316][956]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2023.12.31-07.51.11:331][956]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.31-07.51.11:331][956]LogLoad: Game class is 'BP_UMG_GM_C'
+[2023.12.31-07.51.11:331][956]LogWorld: Bringing World /Game/Blueprints/Levels/UEDPIE_0_Menu.Menu up for play (max tick rate 0) at 2023.12.31-16.51.11
+[2023.12.31-07.51.11:331][956]LogWorld: Bringing up level for play took: 0.000276
+[2023.12.31-07.51.11:333][956]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2023.12.31-07.51.11:333][956]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.12.31-07.51.11:335][956]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.12.31-07.51.11:335][956]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.12.31-07.51.11:336][956]PIE: Server logged in
+[2023.12.31-07.51.11:336][956]PIE: Play in editor total start time 0.062 seconds.
+[2023.12.31-07.51.11:340][956]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.12.31-07.51.14:830][365]LogNet: Browse: /Game/Blueprints/Levels/Game
+[2023.12.31-07.51.14:830][365]LogLoad: LoadMap: /Game/Blueprints/Levels/Game
+[2023.12.31-07.51.14:830][365]LogWorld: BeginTearingDown for /Game/Blueprints/Levels/UEDPIE_0_Menu
+[2023.12.31-07.51.14:831][365]LogWorld: UWorld::CleanupWorld for Menu, bSessionEnded=true, bCleanupResources=true
+[2023.12.31-07.51.14:831][365]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.31-07.51.14:873][365]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.31-07.51.14:875][365]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.12.31-07.51.14:878][365]LogAudio: Display: Audio Device (ID: 3) registered with world 'Game'.
+[2023.12.31-07.51.14:878][365]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.31-07.51.14:878][365]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.31-07.51.14:878][365]LogAIModule: Creating AISystem for world Game
+[2023.12.31-07.51.14:879][365]LogPlayLevel: PIE: World Init took: (0.000680s)
+[2023.12.31-07.51.14:879][365]LogLoad: Game class is 'BP_GM_C'
+[2023.12.31-07.51.14:879][365]LogWorld: Bringing World /Game/Blueprints/Levels/UEDPIE_0_Game.Game up for play (max tick rate 0) at 2023.12.31-16.51.14
+[2023.12.31-07.51.14:879][365]LogWorld: Bringing up level for play took: 0.000371
+[2023.12.31-07.51.14:879][365]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.12.31-07.51.14:880][365]LogBlueprintUserMessages: [BP_GM_C_0] Outside
+[2023.12.31-07.51.14:880][365]LogBlueprintUserMessages: [BP_GM_C_0] 4
+[2023.12.31-07.51.14:880][365]LogLoad: Took 0.049819 seconds to LoadMap(/Game/Blueprints/Levels/Game)
+[2023.12.31-07.51.16:314][534]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.31-07.51.16:314][534]LogWorld: BeginTearingDown for /Game/Blueprints/Levels/UEDPIE_0_Game
+[2023.12.31-07.51.16:314][534]LogSlate: Window 'Gamemode Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.12.31-07.51.16:316][534]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2023.12.31-07.51.16:316][534]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.31-07.51.16:318][534]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.31-07.51.16:322][534]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.31-07.51.16:335][534]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2023.12.31-07.51.16:335][534]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.12.31-07.51.16:337][534]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.12.31-07.51.16:341][534]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.12.31-07.51.16:392][540]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2023.12.31-07.51.16:937][605]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-07.51.16:968][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/BP_GI" FILE="../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GI.uasset" SILENT=true
+[2023.12.31-07.51.16:969][605]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_GI
+[2023.12.31-07.51.16:969][605]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/BP_GIA07B208E4B62C6E39E1B55AEF962EAB8.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GI.uasset'
+[2023.12.31-07.51.16:974][605]LogFileHelpers: InternalPromptForCheckoutAndSave took 37 ms (total: 893 ms)
+[2023.12.31-07.51.16:974][605]AssetCheck: New page: Asset Save: BP_GI
+[2023.12.31-07.51.16:974][605]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameMode/BP_GI.BP_GI
+[2023.12.31-07.51.19:923][959]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-07.51.19:947][959]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/BP_GM" FILE="../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset" SILENT=true
+[2023.12.31-07.51.19:951][959]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_GM
+[2023.12.31-07.51.19:951][959]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/BP_GM471FF580434106F8A0BACA921135A1FF.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset'
+[2023.12.31-07.51.19:955][959]LogFileHelpers: InternalPromptForCheckoutAndSave took 32 ms (total: 926 ms)
+[2023.12.31-07.51.19:956][959]AssetCheck: New page: Asset Save: BP_GM
+[2023.12.31-07.51.19:956][959]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameMode/BP_GM.BP_GM
+[2023.12.31-07.51.21:308][121]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.12.31-07.51.21:308][121]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.31-07.52.04:304][ 57]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.12.31-07.52.04:304][ 57]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.31-07.52.04:309][ 57]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.12.31-07.52.04:309][ 57]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.31-07.52.15:576][180]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2023.12.31-07.52.15:580][180]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.12.31-07.52.15:583][180]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.12.31-07.52.15:591][181]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2023.12.31-07.52.18:079][480]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> UMG_Manual
+[2023.12.31-07.52.18:084][480]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.12.31-07.52.18:627][545]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-07.52.18:658][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UMG/UMG_Manual" FILE="../../../../../Project/Gamemode/Content/Blueprints/UMG/UMG_Manual.uasset" SILENT=true
+[2023.12.31-07.52.18:660][545]LogSavePackage: Moving output files for package: /Game/Blueprints/UMG/UMG_Manual
+[2023.12.31-07.52.18:660][545]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/UMG_Manual5DBFDE424CF4E4A9C57B80A31BDCE37F.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/UMG/UMG_Manual.uasset'
+[2023.12.31-07.52.18:666][545]LogFileHelpers: InternalPromptForCheckoutAndSave took 39 ms (total: 966 ms)
+[2023.12.31-07.52.18:667][545]AssetCheck: New page: Asset Save: UMG_Manual
+[2023.12.31-07.52.18:667][545]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UMG/UMG_Manual.UMG_Manual
+[2023.12.31-07.52.29:886][885]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/UMG/UMG_Manual.UMG_Manual
+[2023.12.31-07.52.29:886][885]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.31-07.52.29:886][885]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.31-07.52.29:890][885]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.31-07.52.29:890][885]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.31-07.52.32:021][116]LogSlate: Window 'UMG_Manual' being destroyed
+[2023.12.31-07.52.35:140][486]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-07.52.35:166][486]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UMG/UMG_Manual" FILE="../../../../../Project/Gamemode/Content/Blueprints/UMG/UMG_Manual.uasset" SILENT=true
+[2023.12.31-07.52.35:168][486]LogSavePackage: Moving output files for package: /Game/Blueprints/UMG/UMG_Manual
+[2023.12.31-07.52.35:168][486]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/UMG_Manual68FF92E14E584FB619988C8583972576.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/UMG/UMG_Manual.uasset'
+[2023.12.31-07.52.35:172][486]LogFileHelpers: InternalPromptForCheckoutAndSave took 32 ms (total: 998 ms)
+[2023.12.31-07.52.35:173][486]AssetCheck: New page: Asset Save: UMG_Manual
+[2023.12.31-07.52.35:173][486]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UMG/UMG_Manual.UMG_Manual
+[2023.12.31-07.52.39:740][  8]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-07.52.39:774][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UMG/UMG_Manual" FILE="../../../../../Project/Gamemode/Content/Blueprints/UMG/UMG_Manual.uasset" SILENT=true
+[2023.12.31-07.52.39:776][  8]LogSavePackage: Moving output files for package: /Game/Blueprints/UMG/UMG_Manual
+[2023.12.31-07.52.39:776][  8]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/UMG_ManualE91E85094A2FFA30CB82FC88E11DC16C.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/UMG/UMG_Manual.uasset'
+[2023.12.31-07.52.39:780][  8]LogFileHelpers: InternalPromptForCheckoutAndSave took 40 ms (total: 1.03 sec)
+[2023.12.31-07.52.39:781][  8]AssetCheck: New page: Asset Save: UMG_Manual
+[2023.12.31-07.52.39:781][  8]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UMG/UMG_Manual.UMG_Manual
+[2023.12.31-07.52.40:830][127]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-07.52.40:856][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UMG/UMG_Manual" FILE="../../../../../Project/Gamemode/Content/Blueprints/UMG/UMG_Manual.uasset" SILENT=true
+[2023.12.31-07.52.40:857][127]LogSavePackage: Moving output files for package: /Game/Blueprints/UMG/UMG_Manual
+[2023.12.31-07.52.40:857][127]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/UMG_Manual4E1DFBCB4D4701CE87FFFBB3D613D242.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/UMG/UMG_Manual.uasset'
+[2023.12.31-07.52.40:862][127]LogFileHelpers: InternalPromptForCheckoutAndSave took 32 ms (total: 1.07 sec)
+[2023.12.31-07.52.40:863][127]AssetCheck: New page: Asset Save: UMG_Manual
+[2023.12.31-07.52.40:863][127]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UMG/UMG_Manual.UMG_Manual
+[2023.12.31-07.52.41:435][196]BlueprintLog: New page: Compile UMG_Manual
+[2023.12.31-07.52.41:458][196]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.12.31-07.52.45:114][623]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/GameMode/BP_GM.BP_GM
+[2023.12.31-07.52.45:114][623]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.31-07.52.45:114][623]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.31-07.53.03:163][712]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-07.53.03:190][712]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/BP_GM" FILE="../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset" SILENT=true
+[2023.12.31-07.53.03:194][712]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_GM
+[2023.12.31-07.53.03:194][712]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/BP_GM070EFE5D48C87F112FDFD19DEDDD64A2.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset'
+[2023.12.31-07.53.03:199][712]LogFileHelpers: InternalPromptForCheckoutAndSave took 35 ms (total: 1.10 sec)
+[2023.12.31-07.53.03:199][712]AssetCheck: New page: Asset Save: BP_GM
+[2023.12.31-07.53.03:199][712]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameMode/BP_GM.BP_GM
+[2023.12.31-07.53.05:901][ 35]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-07.53.05:931][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/BP_GM" FILE="../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset" SILENT=true
+[2023.12.31-07.53.05:935][ 35]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_GM
+[2023.12.31-07.53.05:935][ 35]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/BP_GM0D629FB149B0D4EB255145B464CBFF0D.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset'
+[2023.12.31-07.53.05:940][ 35]LogFileHelpers: InternalPromptForCheckoutAndSave took 39 ms (total: 1.14 sec)
+[2023.12.31-07.53.05:940][ 35]AssetCheck: New page: Asset Save: BP_GM
+[2023.12.31-07.53.05:940][ 35]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameMode/BP_GM.BP_GM
+[2023.12.31-07.53.12:430][803]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-07.53.12:448][803]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/BP_GM" FILE="../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset" SILENT=true
+[2023.12.31-07.53.12:452][803]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_GM
+[2023.12.31-07.53.12:452][803]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/BP_GM70510CD44D0842196E2323A3834A526B.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset'
+[2023.12.31-07.53.12:456][803]LogFileHelpers: InternalPromptForCheckoutAndSave took 26 ms (total: 1.17 sec)
+[2023.12.31-07.53.12:457][803]AssetCheck: New page: Asset Save: BP_GM
+[2023.12.31-07.53.12:457][803]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameMode/BP_GM.BP_GM
+[2023.12.31-07.53.50:227][176]LogEditorTransaction: Undo Move Node
+[2023.12.31-07.53.56:182][820]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-07.53.56:214][820]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/BP_GM" FILE="../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset" SILENT=true
+[2023.12.31-07.53.56:219][820]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_GM
+[2023.12.31-07.53.56:219][820]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/BP_GM239B55294BDA4CFB5F8805A358245679.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset'
+[2023.12.31-07.53.56:224][820]LogFileHelpers: InternalPromptForCheckoutAndSave took 41 ms (total: 1.21 sec)
+[2023.12.31-07.53.56:224][820]AssetCheck: New page: Asset Save: BP_GM
+[2023.12.31-07.53.56:224][820]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameMode/BP_GM.BP_GM
+[2023.12.31-07.53.57:228][941]BlueprintLog: New page: Compile BP_GM
+[2023.12.31-07.53.57:252][941]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.12.31-07.53.57:673][984]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-07.53.57:697][984]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/BP_GM" FILE="../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset" SILENT=true
+[2023.12.31-07.53.57:703][984]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_GM
+[2023.12.31-07.53.57:703][984]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/BP_GM656604274BDC2EB2C8AB5DBF30DCE71D.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset'
+[2023.12.31-07.53.57:707][984]LogFileHelpers: InternalPromptForCheckoutAndSave took 34 ms (total: 1.24 sec)
+[2023.12.31-07.53.57:708][984]AssetCheck: New page: Asset Save: BP_GM
+[2023.12.31-07.53.57:708][984]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameMode/BP_GM.BP_GM
+[2023.12.31-07.54.05:557][868]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-07.54.05:589][868]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/BP_GM" FILE="../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset" SILENT=true
+[2023.12.31-07.54.05:594][868]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_GM
+[2023.12.31-07.54.05:595][868]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/BP_GM304FF10945A1C3E73CFFC5B4161E9951.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset'
+[2023.12.31-07.54.05:599][868]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 1.29 sec)
+[2023.12.31-07.54.05:600][868]AssetCheck: New page: Asset Save: BP_GM
+[2023.12.31-07.54.05:600][868]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameMode/BP_GM.BP_GM
+[2023.12.31-07.54.06:229][944]BlueprintLog: New page: Compile BP_GM
+[2023.12.31-07.54.06:252][944]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.12.31-07.54.31:470][884]LogEditorTransaction: Undo Add Widget
+[2023.12.31-07.55.03:015][554]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.31-07.55.07:737][103]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.31-07.55.42:019][196]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2023.12.31-07.55.42:019][196]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2023.12.31-07.56.12:513][794]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2023.12.31-07.56.16:094][223]LogEditorTransaction: Undo Add Widget
+[2023.12.31-07.58.19:511][686]LogSlate: Took 0.001265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.12.31-07.59.42:402][627]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.31-07.59.49:055][400]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.31-08.00.01:718][805]BlueprintLog: New page: Compile UMG_Manual
+[2023.12.31-08.00.01:739][805]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.12.31-08.00.02:160][850]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.00.02:180][850]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UMG/UMG_Manual" FILE="../../../../../Project/Gamemode/Content/Blueprints/UMG/UMG_Manual.uasset" SILENT=true
+[2023.12.31-08.00.02:185][850]LogSavePackage: Moving output files for package: /Game/Blueprints/UMG/UMG_Manual
+[2023.12.31-08.00.02:185][850]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/UMG_ManualA0554C5C47BFB5D3CC3DACA220F4929A.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/UMG/UMG_Manual.uasset'
+[2023.12.31-08.00.02:188][850]LogFileHelpers: InternalPromptForCheckoutAndSave took 27 ms (total: 1.31 sec)
+[2023.12.31-08.00.02:189][850]AssetCheck: New page: Asset Save: UMG_Manual
+[2023.12.31-08.00.02:189][850]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UMG/UMG_Manual.UMG_Manual
+[2023.12.31-08.00.14:436][278]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.00.14:453][278]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UMG/UMG_Manual" FILE="../../../../../Project/Gamemode/Content/Blueprints/UMG/UMG_Manual.uasset" SILENT=true
+[2023.12.31-08.00.14:457][278]LogSavePackage: Moving output files for package: /Game/Blueprints/UMG/UMG_Manual
+[2023.12.31-08.00.14:457][278]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/UMG_Manual05B93DC646B4CFED86444B942BEDCC58.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/UMG/UMG_Manual.uasset'
+[2023.12.31-08.00.14:460][278]LogFileHelpers: InternalPromptForCheckoutAndSave took 24 ms (total: 1.34 sec)
+[2023.12.31-08.00.14:461][278]AssetCheck: New page: Asset Save: UMG_Manual
+[2023.12.31-08.00.14:461][278]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UMG/UMG_Manual.UMG_Manual
+[2023.12.31-08.00.35:853][759]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.00.35:880][759]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UMG/UMG_Manual" FILE="../../../../../Project/Gamemode/Content/Blueprints/UMG/UMG_Manual.uasset" SILENT=true
+[2023.12.31-08.00.35:884][759]LogSavePackage: Moving output files for package: /Game/Blueprints/UMG/UMG_Manual
+[2023.12.31-08.00.35:884][759]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/UMG_ManualA8795A464FFFD039551F39B32C0156DE.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/UMG/UMG_Manual.uasset'
+[2023.12.31-08.00.35:888][759]LogFileHelpers: InternalPromptForCheckoutAndSave took 34 ms (total: 1.37 sec)
+[2023.12.31-08.00.35:889][759]AssetCheck: New page: Asset Save: UMG_Manual
+[2023.12.31-08.00.35:889][759]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UMG/UMG_Manual.UMG_Manual
+[2023.12.31-08.00.36:368][816]BlueprintLog: New page: Compile UMG_Manual
+[2023.12.31-08.00.36:391][816]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.12.31-08.00.36:692][831]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.00.36:721][831]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UMG/UMG_Manual" FILE="../../../../../Project/Gamemode/Content/Blueprints/UMG/UMG_Manual.uasset" SILENT=true
+[2023.12.31-08.00.36:725][831]LogSavePackage: Moving output files for package: /Game/Blueprints/UMG/UMG_Manual
+[2023.12.31-08.00.36:725][831]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/UMG_Manual9CDADBA34DCEA5388F8CDB93932EF0DE.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/UMG/UMG_Manual.uasset'
+[2023.12.31-08.00.36:728][831]LogFileHelpers: InternalPromptForCheckoutAndSave took 37 ms (total: 1.41 sec)
+[2023.12.31-08.00.36:729][831]AssetCheck: New page: Asset Save: UMG_Manual
+[2023.12.31-08.00.36:729][831]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UMG/UMG_Manual.UMG_Manual
+[2023.12.31-08.03.16:107][368]BlueprintLog: New page: Compile UMG_Manual
+[2023.12.31-08.03.16:146][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.12.31-08.03.35:175][608]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.03.35:198][608]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UMG/UMG_Manual" FILE="../../../../../Project/Gamemode/Content/Blueprints/UMG/UMG_Manual.uasset" SILENT=true
+[2023.12.31-08.03.35:204][608]LogSavePackage: Moving output files for package: /Game/Blueprints/UMG/UMG_Manual
+[2023.12.31-08.03.35:204][608]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/UMG_Manual430A306D441394B4C0BC06BFEBAC9F26.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/UMG/UMG_Manual.uasset'
+[2023.12.31-08.03.35:208][608]LogFileHelpers: InternalPromptForCheckoutAndSave took 32 ms (total: 1.44 sec)
+[2023.12.31-08.03.35:209][608]AssetCheck: New page: Asset Save: UMG_Manual
+[2023.12.31-08.03.35:209][608]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UMG/UMG_Manual.UMG_Manual
+[2023.12.31-08.03.36:331][743]BlueprintLog: New page: Compile UMG_Manual
+[2023.12.31-08.03.36:356][743]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.12.31-08.03.36:837][796]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.03.36:862][796]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UMG/UMG_Manual" FILE="../../../../../Project/Gamemode/Content/Blueprints/UMG/UMG_Manual.uasset" SILENT=true
+[2023.12.31-08.03.36:868][796]LogSavePackage: Moving output files for package: /Game/Blueprints/UMG/UMG_Manual
+[2023.12.31-08.03.36:869][796]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/UMG_Manual369247CA4A0474248D321587364540F7.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/UMG/UMG_Manual.uasset'
+[2023.12.31-08.03.36:872][796]LogFileHelpers: InternalPromptForCheckoutAndSave took 35 ms (total: 1.48 sec)
+[2023.12.31-08.03.36:873][796]AssetCheck: New page: Asset Save: UMG_Manual
+[2023.12.31-08.03.36:873][796]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UMG/UMG_Manual.UMG_Manual
+[2023.12.31-08.04.53:577][801]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.04.53:595][801]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UMG/UMG_Manual" FILE="../../../../../Project/Gamemode/Content/Blueprints/UMG/UMG_Manual.uasset" SILENT=true
+[2023.12.31-08.04.53:617][801]LogSavePackage: Moving output files for package: /Game/Blueprints/UMG/UMG_Manual
+[2023.12.31-08.04.53:617][801]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/UMG_Manual170F24314B5C6D244C8404B75B00D87B.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/UMG/UMG_Manual.uasset'
+[2023.12.31-08.04.53:620][801]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 1.52 sec)
+[2023.12.31-08.04.53:621][801]AssetCheck: New page: Asset Save: UMG_Manual
+[2023.12.31-08.04.53:621][801]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UMG/UMG_Manual.UMG_Manual
+[2023.12.31-08.04.54:202][866]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.04.54:228][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UMG/UMG_Manual" FILE="../../../../../Project/Gamemode/Content/Blueprints/UMG/UMG_Manual.uasset" SILENT=true
+[2023.12.31-08.04.54:236][866]LogSavePackage: Moving output files for package: /Game/Blueprints/UMG/UMG_Manual
+[2023.12.31-08.04.54:236][866]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/UMG_Manual454ECCAC47A35F7C3878CCB0847FD8D2.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/UMG/UMG_Manual.uasset'
+[2023.12.31-08.04.54:240][866]LogFileHelpers: InternalPromptForCheckoutAndSave took 37 ms (total: 1.56 sec)
+[2023.12.31-08.04.54:240][866]AssetCheck: New page: Asset Save: UMG_Manual
+[2023.12.31-08.04.54:240][866]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UMG/UMG_Manual.UMG_Manual
+[2023.12.31-08.05.00:059][513]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.05.00:087][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UMG/UMG_Manual" FILE="../../../../../Project/Gamemode/Content/Blueprints/UMG/UMG_Manual.uasset" SILENT=true
+[2023.12.31-08.05.00:095][513]LogSavePackage: Moving output files for package: /Game/Blueprints/UMG/UMG_Manual
+[2023.12.31-08.05.00:095][513]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/UMG_Manual7ECD81EE45765A5D68A05AAFAECFC766.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/UMG/UMG_Manual.uasset'
+[2023.12.31-08.05.00:099][513]LogFileHelpers: InternalPromptForCheckoutAndSave took 39 ms (total: 1.60 sec)
+[2023.12.31-08.05.00:100][513]AssetCheck: New page: Asset Save: UMG_Manual
+[2023.12.31-08.05.00:100][513]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UMG/UMG_Manual.UMG_Manual
+[2023.12.31-08.05.00:484][558]BlueprintLog: New page: Compile UMG_Manual
+[2023.12.31-08.05.00:511][558]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.12.31-08.05.01:295][647]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.05.01:329][647]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UMG/UMG_Manual" FILE="../../../../../Project/Gamemode/Content/Blueprints/UMG/UMG_Manual.uasset" SILENT=true
+[2023.12.31-08.05.01:336][647]LogSavePackage: Moving output files for package: /Game/Blueprints/UMG/UMG_Manual
+[2023.12.31-08.05.01:336][647]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/UMG_Manual2B53CEBB4B4FCC46C3C51BB2F85B127F.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/UMG/UMG_Manual.uasset'
+[2023.12.31-08.05.01:339][647]LogFileHelpers: InternalPromptForCheckoutAndSave took 44 ms (total: 1.64 sec)
+[2023.12.31-08.05.01:340][647]AssetCheck: New page: Asset Save: UMG_Manual
+[2023.12.31-08.05.01:340][647]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UMG/UMG_Manual.UMG_Manual
+[2023.12.31-08.05.01:944][717]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.05.01:967][717]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UMG/UMG_Manual" FILE="../../../../../Project/Gamemode/Content/Blueprints/UMG/UMG_Manual.uasset" SILENT=true
+[2023.12.31-08.05.01:975][717]LogSavePackage: Moving output files for package: /Game/Blueprints/UMG/UMG_Manual
+[2023.12.31-08.05.01:975][717]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/UMG_ManualB83C206B469D604ADF0A23B9753941F2.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/UMG/UMG_Manual.uasset'
+[2023.12.31-08.05.01:979][717]LogFileHelpers: InternalPromptForCheckoutAndSave took 35 ms (total: 1.68 sec)
+[2023.12.31-08.05.01:980][717]AssetCheck: New page: Asset Save: UMG_Manual
+[2023.12.31-08.05.01:980][717]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UMG/UMG_Manual.UMG_Manual
+[2023.12.31-08.05.13:484][ 82]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.05.13:504][ 82]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/BP_GM" FILE="../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset" SILENT=true
+[2023.12.31-08.05.13:510][ 82]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_GM
+[2023.12.31-08.05.13:510][ 82]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/BP_GM7AFBF6284DCC6DE8F28C31AE3ABDE9EA.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset'
+[2023.12.31-08.05.13:515][ 82]LogFileHelpers: InternalPromptForCheckoutAndSave took 29 ms (total: 1.71 sec)
+[2023.12.31-08.05.13:516][ 82]AssetCheck: New page: Asset Save: BP_GM
+[2023.12.31-08.05.13:516][ 82]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameMode/BP_GM.BP_GM
+[2023.12.31-08.05.14:024][143]BlueprintLog: New page: Compile BP_GM
+[2023.12.31-08.05.14:051][143]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.12.31-08.05.34:386][526]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.05.34:418][526]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/BP_GM" FILE="../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset" SILENT=true
+[2023.12.31-08.05.34:424][526]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_GM
+[2023.12.31-08.05.34:424][526]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/BP_GM851D442E46644C94A4C09395D5C3EEC6.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset'
+[2023.12.31-08.05.34:429][526]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 1.75 sec)
+[2023.12.31-08.05.34:429][526]AssetCheck: New page: Asset Save: BP_GM
+[2023.12.31-08.05.34:429][526]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameMode/BP_GM.BP_GM
+[2023.12.31-08.05.59:743][520]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.05.59:768][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/BP_GM" FILE="../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset" SILENT=true
+[2023.12.31-08.05.59:773][520]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_GM
+[2023.12.31-08.05.59:774][520]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/BP_GM8043F77D40476ACCC570B7B0F2628BC4.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset'
+[2023.12.31-08.05.59:777][520]LogFileHelpers: InternalPromptForCheckoutAndSave took 33 ms (total: 1.78 sec)
+[2023.12.31-08.05.59:778][520]AssetCheck: New page: Asset Save: BP_GM
+[2023.12.31-08.05.59:778][520]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameMode/BP_GM.BP_GM
+[2023.12.31-08.06.01:774][760]BlueprintLog: New page: Compile BP_GM
+[2023.12.31-08.06.01:779][760]LogBlueprint: Warning: [AssetLog] H:\Project\Gamemode\Content\Blueprints\GameMode\BP_GM.uasset: [Compiler] Can't parse default value 'False' for  E Maps . Property: E_Maps.
+[2023.12.31-08.06.01:779][760]LogBlueprint: Warning: [AssetLog] H:\Project\Gamemode\Content\Blueprints\GameMode\BP_GM.uasset: [Compiler] Can't parse default value 'False' for  E DIfficulties . Property: E_DIfficulties.
+[2023.12.31-08.06.01:804][760]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.12.31-08.06.02:311][812]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.06.02:334][812]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/BP_GM" FILE="../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset" SILENT=true
+[2023.12.31-08.06.02:340][812]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_GM
+[2023.12.31-08.06.02:340][812]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/BP_GMC91863E9408C62B6B00893A47055A125.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset'
+[2023.12.31-08.06.02:344][812]LogFileHelpers: InternalPromptForCheckoutAndSave took 33 ms (total: 1.82 sec)
+[2023.12.31-08.06.02:345][812]AssetCheck: New page: Asset Save: BP_GM
+[2023.12.31-08.06.02:345][812]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameMode/BP_GM.BP_GM
+[2023.12.31-08.06.28:511][947]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.06.28:543][947]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/BP_GM" FILE="../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset" SILENT=true
+[2023.12.31-08.06.28:548][947]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_GM
+[2023.12.31-08.06.28:548][947]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/BP_GM54BE27F640039E888C8F27BDC5E79D27.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset'
+[2023.12.31-08.06.28:552][947]LogFileHelpers: InternalPromptForCheckoutAndSave took 41 ms (total: 1.86 sec)
+[2023.12.31-08.06.28:553][947]AssetCheck: New page: Asset Save: BP_GM
+[2023.12.31-08.06.28:553][947]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameMode/BP_GM.BP_GM
+[2023.12.31-08.06.29:268][ 33]BlueprintLog: New page: Compile BP_GM
+[2023.12.31-08.06.29:293][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.12.31-08.06.37:573][985]BlueprintLog: New page: Compile BP_GM
+[2023.12.31-08.06.37:596][985]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.12.31-08.06.38:101][ 41]BlueprintLog: New page: Compile BP_GM
+[2023.12.31-08.06.38:127][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.12.31-08.06.38:331][ 61]BlueprintLog: New page: Compile BP_GM
+[2023.12.31-08.06.38:356][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.12.31-08.06.38:644][ 91]BlueprintLog: New page: Compile BP_GM
+[2023.12.31-08.06.38:667][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.12.31-08.06.38:822][105]BlueprintLog: New page: Compile BP_GM
+[2023.12.31-08.06.38:849][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.12.31-08.06.38:980][116]BlueprintLog: New page: Compile BP_GM
+[2023.12.31-08.06.39:006][116]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.12.31-08.06.39:135][127]BlueprintLog: New page: Compile BP_GM
+[2023.12.31-08.06.39:158][127]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.12.31-08.06.39:312][141]BlueprintLog: New page: Compile BP_GM
+[2023.12.31-08.06.39:339][141]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.12.31-08.06.44:359][737]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.06.44:376][737]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/BP_GM" FILE="../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset" SILENT=true
+[2023.12.31-08.06.44:381][737]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_GM
+[2023.12.31-08.06.44:382][737]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/BP_GM83BC2F754CB3760AA0F38591B5ED5D93.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset'
+[2023.12.31-08.06.44:385][737]LogFileHelpers: InternalPromptForCheckoutAndSave took 26 ms (total: 1.89 sec)
+[2023.12.31-08.06.44:386][737]AssetCheck: New page: Asset Save: BP_GM
+[2023.12.31-08.06.44:386][737]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameMode/BP_GM.BP_GM
+[2023.12.31-08.06.44:991][810]BlueprintLog: New page: Compile BP_GM
+[2023.12.31-08.06.45:015][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.12.31-08.07.14:011][250]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.07.14:046][250]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UMG/UMG_Manual" FILE="../../../../../Project/Gamemode/Content/Blueprints/UMG/UMG_Manual.uasset" SILENT=true
+[2023.12.31-08.07.14:053][250]LogSavePackage: Moving output files for package: /Game/Blueprints/UMG/UMG_Manual
+[2023.12.31-08.07.14:053][250]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/UMG_Manual6C31610F411F316C5FCB51A7816AE068.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/UMG/UMG_Manual.uasset'
+[2023.12.31-08.07.14:057][250]LogFileHelpers: InternalPromptForCheckoutAndSave took 46 ms (total: 1.93 sec)
+[2023.12.31-08.07.14:058][250]AssetCheck: New page: Asset Save: UMG_Manual
+[2023.12.31-08.07.14:058][250]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UMG/UMG_Manual.UMG_Manual
+[2023.12.31-08.07.16:965][599]BlueprintLog: New page: Compile UMG_Manual
+[2023.12.31-08.07.16:994][599]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.12.31-08.07.38:898][153]LogEditorTransaction: Undo Move Nodes
+[2023.12.31-08.07.47:670][157]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.07.47:701][157]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/BP_GM" FILE="../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset" SILENT=true
+[2023.12.31-08.07.47:706][157]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_GM
+[2023.12.31-08.07.47:707][157]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/BP_GMBFF267E0413E51582F4376BE0E653B84.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset'
+[2023.12.31-08.07.47:710][157]LogFileHelpers: InternalPromptForCheckoutAndSave took 40 ms (total: 1.97 sec)
+[2023.12.31-08.07.47:711][157]AssetCheck: New page: Asset Save: BP_GM
+[2023.12.31-08.07.47:711][157]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameMode/BP_GM.BP_GM
+[2023.12.31-08.07.47:998][192]BlueprintLog: New page: Compile BP_GM
+[2023.12.31-08.07.48:000][192]LogBlueprint: Error: [AssetLog] H:\Project\Gamemode\Content\Blueprints\GameMode\BP_GM.uasset: [Compiler] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2023.12.31-08.07.48:024][192]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.12.31-08.07.52:519][713]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.07.52:542][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/BP_GM" FILE="../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset" SILENT=true
+[2023.12.31-08.07.52:547][713]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_GM
+[2023.12.31-08.07.52:547][713]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/BP_GM87BDE83343A5A78A764C358C7D5A5ECD.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset'
+[2023.12.31-08.07.52:551][713]LogFileHelpers: InternalPromptForCheckoutAndSave took 32 ms (total: 2.01 sec)
+[2023.12.31-08.07.52:552][713]AssetCheck: New page: Asset Save: BP_GM
+[2023.12.31-08.07.52:552][713]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameMode/BP_GM.BP_GM
+[2023.12.31-08.07.53:039][772]BlueprintLog: New page: Compile BP_GM
+[2023.12.31-08.07.53:066][772]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.12.31-08.07.54:102][891]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.07.54:134][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/BP_GM" FILE="../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset" SILENT=true
+[2023.12.31-08.07.54:139][891]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_GM
+[2023.12.31-08.07.54:139][891]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/BP_GMD2BC2A064623A9F42B9FA58E73525C3F.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset'
+[2023.12.31-08.07.54:143][891]LogFileHelpers: InternalPromptForCheckoutAndSave took 40 ms (total: 2.05 sec)
+[2023.12.31-08.07.54:144][891]AssetCheck: New page: Asset Save: BP_GM
+[2023.12.31-08.07.54:144][891]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameMode/BP_GM.BP_GM
+[2023.12.31-08.08.11:392][887]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.08.11:420][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UMG/UMG_Manual" FILE="../../../../../Project/Gamemode/Content/Blueprints/UMG/UMG_Manual.uasset" SILENT=true
+[2023.12.31-08.08.11:428][887]LogSavePackage: Moving output files for package: /Game/Blueprints/UMG/UMG_Manual
+[2023.12.31-08.08.11:428][887]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/UMG_Manual0323F9EC4089402069DE93A9CBD2C21B.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/UMG/UMG_Manual.uasset'
+[2023.12.31-08.08.11:432][887]LogFileHelpers: InternalPromptForCheckoutAndSave took 39 ms (total: 2.09 sec)
+[2023.12.31-08.08.11:433][887]AssetCheck: New page: Asset Save: UMG_Manual
+[2023.12.31-08.08.11:433][887]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UMG/UMG_Manual.UMG_Manual
+[2023.12.31-08.08.29:891][ 79]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.08.29:911][ 79]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UMG/UMG_Manual" FILE="../../../../../Project/Gamemode/Content/Blueprints/UMG/UMG_Manual.uasset" SILENT=true
+[2023.12.31-08.08.29:919][ 79]LogSavePackage: Moving output files for package: /Game/Blueprints/UMG/UMG_Manual
+[2023.12.31-08.08.29:919][ 79]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/UMG_Manual15071915464388B4F04A70BFAD6610B0.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/UMG/UMG_Manual.uasset'
+[2023.12.31-08.08.29:923][ 79]LogFileHelpers: InternalPromptForCheckoutAndSave took 32 ms (total: 2.12 sec)
+[2023.12.31-08.08.29:924][ 79]AssetCheck: New page: Asset Save: UMG_Manual
+[2023.12.31-08.08.29:924][ 79]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UMG/UMG_Manual.UMG_Manual
+[2023.12.31-08.08.30:741][174]BlueprintLog: New page: Compile UMG_Manual
+[2023.12.31-08.08.30:765][174]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.12.31-08.09.11:914][989]LogEditorTransaction: Undo Promote to Local Variable
+[2023.12.31-08.09.30:174][ 85]BlueprintLog: New page: Compile UMG_Manual
+[2023.12.31-08.09.30:176][ 85]LogBlueprint: Error: [AssetLog] H:\Project\Gamemode\Content\Blueprints\UMG\UMG_Manual.uasset: [Compiler] Enum to String  Must have non-default Enum input
+[2023.12.31-08.09.30:177][ 85]LogBlueprint: Error: [AssetLog] H:\Project\Gamemode\Content\Blueprints\UMG\UMG_Manual.uasset: [Compiler] Enum to String  must have a valid enum defined
+[2023.12.31-08.09.30:177][ 85]LogBlueprint: Error: [AssetLog] H:\Project\Gamemode\Content\Blueprints\UMG\UMG_Manual.uasset: [Compiler] Enum to String  Must have non-default Enum input
+[2023.12.31-08.09.30:196][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.12.31-08.09.34:855][621]BlueprintLog: New page: Compile UMG_Manual
+[2023.12.31-08.09.34:873][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.12.31-08.09.35:607][702]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.09.35:636][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UMG/UMG_Manual" FILE="../../../../../Project/Gamemode/Content/Blueprints/UMG/UMG_Manual.uasset" SILENT=true
+[2023.12.31-08.09.35:645][702]LogSavePackage: Moving output files for package: /Game/Blueprints/UMG/UMG_Manual
+[2023.12.31-08.09.35:645][702]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/UMG_ManualE5793636412DCE4B408080A042934E1D.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/UMG/UMG_Manual.uasset'
+[2023.12.31-08.09.35:650][702]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 2.16 sec)
+[2023.12.31-08.09.35:651][702]AssetCheck: New page: Asset Save: UMG_Manual
+[2023.12.31-08.09.35:651][702]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UMG/UMG_Manual.UMG_Manual
+[2023.12.31-08.09.36:704][827]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.31-08.09.36:708][827]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.31-08.09.36:708][827]PIE: New page: PIE session: Menu (2024. 1. 1. 오전 2:09:36)
+[2023.12.31-08.09.36:708][827]LogPlayLevel: Creating play world package: /Game/Blueprints/Levels/UEDPIE_0_Menu
+[2023.12.31-08.09.36:709][827]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000559s)
+[2023.12.31-08.09.36:709][827]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Levels/Menu.Menu to /Game/Blueprints/Levels/UEDPIE_0_Menu.Menu (0.000584s)
+[2023.12.31-08.09.36:721][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.12.31-08.09.36:722][827]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.31-08.09.36:722][827]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.31-08.09.36:722][827]LogAIModule: Creating AISystem for world Menu
+[2023.12.31-08.09.36:722][827]LogPlayLevel: PIE: World Init took: (0.000841s)
+[2023.12.31-08.09.36:722][827]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.12.31-08.09.36:722][827]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.31-08.09.36:722][827]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.31-08.09.36:722][827]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.31-08.09.36:722][827]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.31-08.09.36:722][827]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.31-08.09.36:722][827]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.31-08.09.36:722][827]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.31-08.09.36:722][827]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.31-08.09.36:723][827]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.31-08.09.36:723][827]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.31-08.09.36:723][827]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.31-08.09.36:725][827]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.31-08.09.36:749][827]LogAudioMixer: Display: Using Audio Hardware Device 스피커1(Realtek High Definition Audio)
+[2023.12.31-08.09.36:749][827]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.31-08.09.36:749][827]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.31-08.09.36:749][827]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.31-08.09.36:750][827]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.12.31-08.09.36:750][827]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.12.31-08.09.36:751][827]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.12.31-08.09.36:751][827]LogInit: FAudioDevice initialized with ID 4.
+[2023.12.31-08.09.36:751][827]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.12.31-08.09.36:751][827]LogAudio: Display: Audio Device (ID: 4) registered with world 'Menu'.
+[2023.12.31-08.09.36:751][827]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2023.12.31-08.09.36:766][827]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.31-08.09.36:766][827]LogLoad: Game class is 'BP_UMG_GM_C'
+[2023.12.31-08.09.36:767][827]LogWorld: Bringing World /Game/Blueprints/Levels/UEDPIE_0_Menu.Menu up for play (max tick rate 0) at 2023.12.31-17.09.36
+[2023.12.31-08.09.36:767][827]LogWorld: Bringing up level for play took: 0.000333
+[2023.12.31-08.09.36:769][827]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2023.12.31-08.09.36:769][827]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.12.31-08.09.36:771][827]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.12.31-08.09.36:771][827]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.12.31-08.09.36:772][827]PIE: Server logged in
+[2023.12.31-08.09.36:773][827]PIE: Play in editor total start time 0.064 seconds.
+[2023.12.31-08.09.36:778][827]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.12.31-08.09.39:711][169]LogNet: Browse: /Game/Blueprints/Levels/Game
+[2023.12.31-08.09.39:711][169]LogLoad: LoadMap: /Game/Blueprints/Levels/Game
+[2023.12.31-08.09.39:711][169]LogWorld: BeginTearingDown for /Game/Blueprints/Levels/UEDPIE_0_Menu
+[2023.12.31-08.09.39:711][169]LogWorld: UWorld::CleanupWorld for Menu, bSessionEnded=true, bCleanupResources=true
+[2023.12.31-08.09.39:711][169]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.31-08.09.39:745][169]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.31-08.09.39:747][169]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.12.31-08.09.39:751][169]LogAudio: Display: Audio Device (ID: 4) registered with world 'Game'.
+[2023.12.31-08.09.39:751][169]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.31-08.09.39:751][169]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.31-08.09.39:751][169]LogAIModule: Creating AISystem for world Game
+[2023.12.31-08.09.39:751][169]LogPlayLevel: PIE: World Init took: (0.000643s)
+[2023.12.31-08.09.39:751][169]LogLoad: Game class is 'BP_GM_C'
+[2023.12.31-08.09.39:752][169]LogWorld: Bringing World /Game/Blueprints/Levels/UEDPIE_0_Game.Game up for play (max tick rate 0) at 2023.12.31-17.09.39
+[2023.12.31-08.09.39:752][169]LogWorld: Bringing up level for play took: 0.000396
+[2023.12.31-08.09.39:752][169]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.12.31-08.09.39:753][169]LogLoad: Took 0.042592 seconds to LoadMap(/Game/Blueprints/Levels/Game)
+[2023.12.31-08.09.48:123][169]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.31-08.09.48:123][169]LogWorld: BeginTearingDown for /Game/Blueprints/Levels/UEDPIE_0_Game
+[2023.12.31-08.09.48:123][169]LogSlate: Window 'Gamemode Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.12.31-08.09.48:126][169]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2023.12.31-08.09.48:126][169]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.31-08.09.48:128][169]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.31-08.09.48:132][169]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.31-08.09.48:143][169]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2023.12.31-08.09.48:143][169]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.12.31-08.09.48:144][169]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.12.31-08.09.48:150][169]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.12.31-08.09.48:187][173]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2023.12.31-08.09.49:414][320]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.09.49:443][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UMG/UMG_Manual" FILE="../../../../../Project/Gamemode/Content/Blueprints/UMG/UMG_Manual.uasset" SILENT=true
+[2023.12.31-08.09.49:452][320]LogSavePackage: Moving output files for package: /Game/Blueprints/UMG/UMG_Manual
+[2023.12.31-08.09.49:452][320]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/UMG_ManualDFBB82D547D8BFE3263C7091698F32DD.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/UMG/UMG_Manual.uasset'
+[2023.12.31-08.09.49:456][320]LogFileHelpers: InternalPromptForCheckoutAndSave took 41 ms (total: 2.20 sec)
+[2023.12.31-08.09.49:457][320]AssetCheck: New page: Asset Save: UMG_Manual
+[2023.12.31-08.09.49:457][320]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UMG/UMG_Manual.UMG_Manual
+[2023.12.31-08.10.26:575][725]BlueprintLog: New page: Compile UMG_Manual
+[2023.12.31-08.10.26:593][725]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.12.31-08.10.27:389][815]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.31-08.10.27:393][815]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.31-08.10.27:393][815]PIE: New page: PIE session: Menu (2024. 1. 1. 오전 2:10:27)
+[2023.12.31-08.10.27:393][815]LogPlayLevel: Creating play world package: /Game/Blueprints/Levels/UEDPIE_0_Menu
+[2023.12.31-08.10.27:393][815]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000542s)
+[2023.12.31-08.10.27:393][815]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Levels/Menu.Menu to /Game/Blueprints/Levels/UEDPIE_0_Menu.Menu (0.000566s)
+[2023.12.31-08.10.27:408][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.12.31-08.10.27:409][815]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.31-08.10.27:409][815]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.31-08.10.27:409][815]LogAIModule: Creating AISystem for world Menu
+[2023.12.31-08.10.27:409][815]LogPlayLevel: PIE: World Init took: (0.000723s)
+[2023.12.31-08.10.27:409][815]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.12.31-08.10.27:409][815]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.31-08.10.27:409][815]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.31-08.10.27:409][815]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.31-08.10.27:409][815]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.31-08.10.27:409][815]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.31-08.10.27:409][815]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.31-08.10.27:409][815]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.31-08.10.27:409][815]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.31-08.10.27:410][815]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.31-08.10.27:410][815]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.31-08.10.27:410][815]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.31-08.10.27:412][815]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.31-08.10.27:435][815]LogAudioMixer: Display: Using Audio Hardware Device 스피커1(Realtek High Definition Audio)
+[2023.12.31-08.10.27:435][815]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.31-08.10.27:435][815]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.31-08.10.27:435][815]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.31-08.10.27:436][815]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.12.31-08.10.27:436][815]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.12.31-08.10.27:437][815]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.12.31-08.10.27:437][815]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.12.31-08.10.27:437][815]LogInit: FAudioDevice initialized with ID 5.
+[2023.12.31-08.10.27:437][815]LogAudio: Display: Audio Device (ID: 5) registered with world 'Menu'.
+[2023.12.31-08.10.27:437][815]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2023.12.31-08.10.27:458][815]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.31-08.10.27:459][815]LogLoad: Game class is 'BP_UMG_GM_C'
+[2023.12.31-08.10.27:459][815]LogWorld: Bringing World /Game/Blueprints/Levels/UEDPIE_0_Menu.Menu up for play (max tick rate 0) at 2023.12.31-17.10.27
+[2023.12.31-08.10.27:459][815]LogWorld: Bringing up level for play took: 0.000277
+[2023.12.31-08.10.27:461][815]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2023.12.31-08.10.27:461][815]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.12.31-08.10.27:463][815]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.12.31-08.10.27:463][815]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.12.31-08.10.27:464][815]PIE: Server logged in
+[2023.12.31-08.10.27:464][815]PIE: Play in editor total start time 0.072 seconds.
+[2023.12.31-08.10.27:469][815]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.12.31-08.10.30:359][152]LogNet: Browse: /Game/Blueprints/Levels/Game
+[2023.12.31-08.10.30:359][152]LogLoad: LoadMap: /Game/Blueprints/Levels/Game
+[2023.12.31-08.10.30:359][152]LogWorld: BeginTearingDown for /Game/Blueprints/Levels/UEDPIE_0_Menu
+[2023.12.31-08.10.30:359][152]LogWorld: UWorld::CleanupWorld for Menu, bSessionEnded=true, bCleanupResources=true
+[2023.12.31-08.10.30:359][152]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.31-08.10.30:395][152]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.31-08.10.30:397][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.12.31-08.10.30:399][152]LogAudio: Display: Audio Device (ID: 5) registered with world 'Game'.
+[2023.12.31-08.10.30:399][152]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.31-08.10.30:399][152]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.31-08.10.30:400][152]LogAIModule: Creating AISystem for world Game
+[2023.12.31-08.10.30:400][152]LogPlayLevel: PIE: World Init took: (0.000673s)
+[2023.12.31-08.10.30:400][152]LogLoad: Game class is 'BP_GM_C'
+[2023.12.31-08.10.30:400][152]LogWorld: Bringing World /Game/Blueprints/Levels/UEDPIE_0_Game.Game up for play (max tick rate 0) at 2023.12.31-17.10.30
+[2023.12.31-08.10.30:401][152]LogWorld: Bringing up level for play took: 0.000362
+[2023.12.31-08.10.30:401][152]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.12.31-08.10.30:402][152]LogLoad: Took 0.043283 seconds to LoadMap(/Game/Blueprints/Levels/Game)
+[2023.12.31-08.10.31:066][232]LogNet: Browse: /Game/Blueprints/Levels/Menu
+[2023.12.31-08.10.31:066][232]LogLoad: LoadMap: /Game/Blueprints/Levels/Menu
+[2023.12.31-08.10.31:066][232]LogWorld: BeginTearingDown for /Game/Blueprints/Levels/UEDPIE_0_Game
+[2023.12.31-08.10.31:067][232]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2023.12.31-08.10.31:067][232]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.31-08.10.31:112][232]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.31-08.10.31:114][232]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.12.31-08.10.31:115][232]LogPlayLevel: Creating play world package: /Game/Blueprints/Levels/UEDPIE_0_Menu
+[2023.12.31-08.10.31:115][232]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000586s)
+[2023.12.31-08.10.31:115][232]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Levels/Menu.Menu to /Game/Blueprints/Levels/UEDPIE_0_Menu.Menu (0.000617s)
+[2023.12.31-08.10.31:115][232]LogAudio: Display: Audio Device (ID: 5) registered with world 'Menu'.
+[2023.12.31-08.10.31:115][232]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.31-08.10.31:115][232]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.31-08.10.31:116][232]LogAIModule: Creating AISystem for world Menu
+[2023.12.31-08.10.31:116][232]LogPlayLevel: PIE: World Init took: (0.000654s)
+[2023.12.31-08.10.31:116][232]LogLoad: Game class is 'BP_UMG_GM_C'
+[2023.12.31-08.10.31:116][232]LogWorld: Bringing World /Game/Blueprints/Levels/UEDPIE_0_Menu.Menu up for play (max tick rate 0) at 2023.12.31-17.10.31
+[2023.12.31-08.10.31:116][232]LogWorld: Bringing up level for play took: 0.000206
+[2023.12.31-08.10.31:116][232]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.12.31-08.10.31:118][232]LogLoad: Took 0.051732 seconds to LoadMap(/Game/Blueprints/Levels/UEDPIE_0_Menu)
+[2023.12.31-08.10.33:983][576]LogNet: Browse: /Game/Blueprints/Levels/Game
+[2023.12.31-08.10.33:983][576]LogLoad: LoadMap: /Game/Blueprints/Levels/Game
+[2023.12.31-08.10.33:983][576]LogWorld: BeginTearingDown for /Game/Blueprints/Levels/UEDPIE_0_Menu
+[2023.12.31-08.10.33:983][576]LogWorld: UWorld::CleanupWorld for Menu, bSessionEnded=true, bCleanupResources=true
+[2023.12.31-08.10.33:983][576]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.31-08.10.34:043][576]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.31-08.10.34:044][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.12.31-08.10.34:046][576]LogAudio: Display: Audio Device (ID: 5) registered with world 'Game'.
+[2023.12.31-08.10.34:046][576]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.31-08.10.34:046][576]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.31-08.10.34:047][576]LogAIModule: Creating AISystem for world Game
+[2023.12.31-08.10.34:047][576]LogPlayLevel: PIE: World Init took: (0.000691s)
+[2023.12.31-08.10.34:047][576]LogLoad: Game class is 'BP_GM_C'
+[2023.12.31-08.10.34:047][576]LogWorld: Bringing World /Game/Blueprints/Levels/UEDPIE_0_Game.Game up for play (max tick rate 0) at 2023.12.31-17.10.34
+[2023.12.31-08.10.34:048][576]LogWorld: Bringing up level for play took: 0.000368
+[2023.12.31-08.10.34:048][576]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.12.31-08.10.34:049][576]LogLoad: Took 0.066277 seconds to LoadMap(/Game/Blueprints/Levels/Game)
+[2023.12.31-08.10.35:246][720]LogNet: Browse: /Game/Blueprints/Levels/Menu
+[2023.12.31-08.10.35:246][720]LogLoad: LoadMap: /Game/Blueprints/Levels/Menu
+[2023.12.31-08.10.35:246][720]LogWorld: BeginTearingDown for /Game/Blueprints/Levels/UEDPIE_0_Game
+[2023.12.31-08.10.35:246][720]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2023.12.31-08.10.35:246][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.31-08.10.35:302][720]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.31-08.10.35:304][720]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.12.31-08.10.35:305][720]LogPlayLevel: Creating play world package: /Game/Blueprints/Levels/UEDPIE_0_Menu
+[2023.12.31-08.10.35:305][720]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000560s)
+[2023.12.31-08.10.35:306][720]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Levels/Menu.Menu to /Game/Blueprints/Levels/UEDPIE_0_Menu.Menu (0.000590s)
+[2023.12.31-08.10.35:306][720]LogAudio: Display: Audio Device (ID: 5) registered with world 'Menu'.
+[2023.12.31-08.10.35:306][720]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.31-08.10.35:306][720]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.31-08.10.35:306][720]LogAIModule: Creating AISystem for world Menu
+[2023.12.31-08.10.35:306][720]LogPlayLevel: PIE: World Init took: (0.000644s)
+[2023.12.31-08.10.35:306][720]LogLoad: Game class is 'BP_UMG_GM_C'
+[2023.12.31-08.10.35:306][720]LogWorld: Bringing World /Game/Blueprints/Levels/UEDPIE_0_Menu.Menu up for play (max tick rate 0) at 2023.12.31-17.10.35
+[2023.12.31-08.10.35:306][720]LogWorld: Bringing up level for play took: 0.000201
+[2023.12.31-08.10.35:307][720]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.12.31-08.10.35:308][720]LogLoad: Took 0.062420 seconds to LoadMap(/Game/Blueprints/Levels/UEDPIE_0_Menu)
+[2023.12.31-08.10.38:757][134]LogNet: Browse: /Game/Blueprints/Levels/Game
+[2023.12.31-08.10.38:757][134]LogLoad: LoadMap: /Game/Blueprints/Levels/Game
+[2023.12.31-08.10.38:757][134]LogWorld: BeginTearingDown for /Game/Blueprints/Levels/UEDPIE_0_Menu
+[2023.12.31-08.10.38:757][134]LogWorld: UWorld::CleanupWorld for Menu, bSessionEnded=true, bCleanupResources=true
+[2023.12.31-08.10.38:757][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.31-08.10.38:792][134]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.31-08.10.38:794][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.12.31-08.10.38:796][134]LogAudio: Display: Audio Device (ID: 5) registered with world 'Game'.
+[2023.12.31-08.10.38:796][134]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.31-08.10.38:796][134]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.31-08.10.38:796][134]LogAIModule: Creating AISystem for world Game
+[2023.12.31-08.10.38:797][134]LogPlayLevel: PIE: World Init took: (0.000671s)
+[2023.12.31-08.10.38:797][134]LogLoad: Game class is 'BP_GM_C'
+[2023.12.31-08.10.38:797][134]LogWorld: Bringing World /Game/Blueprints/Levels/UEDPIE_0_Game.Game up for play (max tick rate 0) at 2023.12.31-17.10.38
+[2023.12.31-08.10.38:797][134]LogWorld: Bringing up level for play took: 0.000359
+[2023.12.31-08.10.38:797][134]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.12.31-08.10.38:799][134]LogLoad: Took 0.042318 seconds to LoadMap(/Game/Blueprints/Levels/Game)
+[2023.12.31-08.10.43:705][723]LogNet: Browse: /Game/Blueprints/Levels/Menu
+[2023.12.31-08.10.43:705][723]LogLoad: LoadMap: /Game/Blueprints/Levels/Menu
+[2023.12.31-08.10.43:705][723]LogWorld: BeginTearingDown for /Game/Blueprints/Levels/UEDPIE_0_Game
+[2023.12.31-08.10.43:705][723]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2023.12.31-08.10.43:705][723]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.31-08.10.43:745][723]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.31-08.10.43:747][723]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.12.31-08.10.43:748][723]LogPlayLevel: Creating play world package: /Game/Blueprints/Levels/UEDPIE_0_Menu
+[2023.12.31-08.10.43:748][723]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000587s)
+[2023.12.31-08.10.43:748][723]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Levels/Menu.Menu to /Game/Blueprints/Levels/UEDPIE_0_Menu.Menu (0.000618s)
+[2023.12.31-08.10.43:748][723]LogAudio: Display: Audio Device (ID: 5) registered with world 'Menu'.
+[2023.12.31-08.10.43:749][723]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.31-08.10.43:749][723]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.31-08.10.43:749][723]LogAIModule: Creating AISystem for world Menu
+[2023.12.31-08.10.43:749][723]LogPlayLevel: PIE: World Init took: (0.000657s)
+[2023.12.31-08.10.43:749][723]LogLoad: Game class is 'BP_UMG_GM_C'
+[2023.12.31-08.10.43:749][723]LogWorld: Bringing World /Game/Blueprints/Levels/UEDPIE_0_Menu.Menu up for play (max tick rate 0) at 2023.12.31-17.10.43
+[2023.12.31-08.10.43:749][723]LogWorld: Bringing up level for play took: 0.000198
+[2023.12.31-08.10.43:750][723]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.12.31-08.10.43:751][723]LogLoad: Took 0.046248 seconds to LoadMap(/Game/Blueprints/Levels/UEDPIE_0_Menu)
+[2023.12.31-08.10.45:891][980]LogNet: Browse: /Game/Blueprints/Levels/Game
+[2023.12.31-08.10.45:891][980]LogLoad: LoadMap: /Game/Blueprints/Levels/Game
+[2023.12.31-08.10.45:891][980]LogWorld: BeginTearingDown for /Game/Blueprints/Levels/UEDPIE_0_Menu
+[2023.12.31-08.10.45:891][980]LogWorld: UWorld::CleanupWorld for Menu, bSessionEnded=true, bCleanupResources=true
+[2023.12.31-08.10.45:891][980]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.31-08.10.45:922][980]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.31-08.10.45:924][980]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.12.31-08.10.45:926][980]LogAudio: Display: Audio Device (ID: 5) registered with world 'Game'.
+[2023.12.31-08.10.45:926][980]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.31-08.10.45:926][980]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.31-08.10.45:926][980]LogAIModule: Creating AISystem for world Game
+[2023.12.31-08.10.45:927][980]LogPlayLevel: PIE: World Init took: (0.000647s)
+[2023.12.31-08.10.45:927][980]LogLoad: Game class is 'BP_GM_C'
+[2023.12.31-08.10.45:927][980]LogWorld: Bringing World /Game/Blueprints/Levels/UEDPIE_0_Game.Game up for play (max tick rate 0) at 2023.12.31-17.10.45
+[2023.12.31-08.10.45:927][980]LogWorld: Bringing up level for play took: 0.000362
+[2023.12.31-08.10.45:927][980]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.12.31-08.10.45:929][980]LogLoad: Took 0.038031 seconds to LoadMap(/Game/Blueprints/Levels/Game)
+[2023.12.31-08.10.47:963][220]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.31-08.10.47:963][220]LogWorld: BeginTearingDown for /Game/Blueprints/Levels/UEDPIE_0_Game
+[2023.12.31-08.10.47:963][220]LogSlate: Window 'Gamemode Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.12.31-08.10.47:965][220]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2023.12.31-08.10.47:965][220]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.31-08.10.47:967][220]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.31-08.10.47:971][220]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.31-08.10.47:985][220]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2023.12.31-08.10.47:985][220]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.12.31-08.10.47:987][220]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.12.31-08.10.47:991][220]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.12.31-08.10.48:027][224]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2023.12.31-08.10.58:470][428]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.10.58:494][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UMG/UMG_Manual" FILE="../../../../../Project/Gamemode/Content/Blueprints/UMG/UMG_Manual.uasset" SILENT=true
+[2023.12.31-08.10.58:503][428]LogSavePackage: Moving output files for package: /Game/Blueprints/UMG/UMG_Manual
+[2023.12.31-08.10.58:504][428]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/UMG_Manual22C0AFFA46655CBE85E5388A11B654BE.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/UMG/UMG_Manual.uasset'
+[2023.12.31-08.10.58:507][428]LogFileHelpers: InternalPromptForCheckoutAndSave took 36 ms (total: 2.24 sec)
+[2023.12.31-08.10.58:508][428]AssetCheck: New page: Asset Save: UMG_Manual
+[2023.12.31-08.10.58:508][428]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UMG/UMG_Manual.UMG_Manual
+[2023.12.31-08.11.18:693][123]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.11.18:727][123]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UMG/UMG_Manual" FILE="../../../../../Project/Gamemode/Content/Blueprints/UMG/UMG_Manual.uasset" SILENT=true
+[2023.12.31-08.11.18:736][123]LogSavePackage: Moving output files for package: /Game/Blueprints/UMG/UMG_Manual
+[2023.12.31-08.11.18:736][123]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/UMG_ManualD2CF1D19442CC44CF87B62982FF0DD9E.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/UMG/UMG_Manual.uasset'
+[2023.12.31-08.11.18:739][123]LogFileHelpers: InternalPromptForCheckoutAndSave took 46 ms (total: 2.29 sec)
+[2023.12.31-08.11.18:740][123]AssetCheck: New page: Asset Save: UMG_Manual
+[2023.12.31-08.11.18:740][123]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UMG/UMG_Manual.UMG_Manual
+[2023.12.31-08.11.19:473][210]BlueprintLog: New page: Compile UMG_Manual
+[2023.12.31-08.11.19:498][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.12.31-08.11.21:665][463]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.31-08.11.21:669][463]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.31-08.11.21:669][463]PIE: New page: PIE session: Menu (2024. 1. 1. 오전 2:11:21)
+[2023.12.31-08.11.21:669][463]LogPlayLevel: Creating play world package: /Game/Blueprints/Levels/UEDPIE_0_Menu
+[2023.12.31-08.11.21:670][463]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000571s)
+[2023.12.31-08.11.21:670][463]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Levels/Menu.Menu to /Game/Blueprints/Levels/UEDPIE_0_Menu.Menu (0.000595s)
+[2023.12.31-08.11.21:681][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.12.31-08.11.21:682][463]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.31-08.11.21:682][463]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.31-08.11.21:683][463]LogAIModule: Creating AISystem for world Menu
+[2023.12.31-08.11.21:683][463]LogPlayLevel: PIE: World Init took: (0.000805s)
+[2023.12.31-08.11.21:683][463]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.12.31-08.11.21:683][463]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.31-08.11.21:683][463]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.31-08.11.21:683][463]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.31-08.11.21:683][463]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.31-08.11.21:683][463]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.31-08.11.21:683][463]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.31-08.11.21:683][463]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.31-08.11.21:683][463]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.31-08.11.21:683][463]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.31-08.11.21:684][463]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.31-08.11.21:684][463]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.31-08.11.21:685][463]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.31-08.11.21:709][463]LogAudioMixer: Display: Using Audio Hardware Device 스피커1(Realtek High Definition Audio)
+[2023.12.31-08.11.21:709][463]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.31-08.11.21:709][463]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.31-08.11.21:709][463]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.31-08.11.21:709][463]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.12.31-08.11.21:709][463]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.12.31-08.11.21:711][463]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.12.31-08.11.21:711][463]LogInit: FAudioDevice initialized with ID 6.
+[2023.12.31-08.11.21:711][463]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.12.31-08.11.21:711][463]LogAudio: Display: Audio Device (ID: 6) registered with world 'Menu'.
+[2023.12.31-08.11.21:711][463]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2023.12.31-08.11.21:741][463]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.31-08.11.21:741][463]LogLoad: Game class is 'BP_UMG_GM_C'
+[2023.12.31-08.11.21:741][463]LogWorld: Bringing World /Game/Blueprints/Levels/UEDPIE_0_Menu.Menu up for play (max tick rate 0) at 2023.12.31-17.11.21
+[2023.12.31-08.11.21:741][463]LogWorld: Bringing up level for play took: 0.000294
+[2023.12.31-08.11.21:743][463]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2023.12.31-08.11.21:743][463]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.12.31-08.11.21:745][463]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.12.31-08.11.21:745][463]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.12.31-08.11.21:746][463]PIE: Server logged in
+[2023.12.31-08.11.21:747][463]PIE: Play in editor total start time 0.077 seconds.
+[2023.12.31-08.11.21:751][463]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.12.31-08.11.22:564][551]LogNet: Browse: /Game/Blueprints/Levels/Game
+[2023.12.31-08.11.22:564][551]LogLoad: LoadMap: /Game/Blueprints/Levels/Game
+[2023.12.31-08.11.22:564][551]LogWorld: BeginTearingDown for /Game/Blueprints/Levels/UEDPIE_0_Menu
+[2023.12.31-08.11.22:564][551]LogWorld: UWorld::CleanupWorld for Menu, bSessionEnded=true, bCleanupResources=true
+[2023.12.31-08.11.22:564][551]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.31-08.11.22:614][551]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.31-08.11.22:616][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.12.31-08.11.22:618][551]LogAudio: Display: Audio Device (ID: 6) registered with world 'Game'.
+[2023.12.31-08.11.22:618][551]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.31-08.11.22:618][551]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.31-08.11.22:619][551]LogAIModule: Creating AISystem for world Game
+[2023.12.31-08.11.22:619][551]LogPlayLevel: PIE: World Init took: (0.000650s)
+[2023.12.31-08.11.22:619][551]LogLoad: Game class is 'BP_GM_C'
+[2023.12.31-08.11.22:619][551]LogWorld: Bringing World /Game/Blueprints/Levels/UEDPIE_0_Game.Game up for play (max tick rate 0) at 2023.12.31-17.11.22
+[2023.12.31-08.11.22:619][551]LogWorld: Bringing up level for play took: 0.000363
+[2023.12.31-08.11.22:620][551]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.12.31-08.11.22:621][551]LogLoad: Took 0.057846 seconds to LoadMap(/Game/Blueprints/Levels/Game)
+[2023.12.31-08.11.24:993][833]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.31-08.11.24:994][833]LogWorld: BeginTearingDown for /Game/Blueprints/Levels/UEDPIE_0_Game
+[2023.12.31-08.11.24:994][833]LogSlate: Window 'Gamemode Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.12.31-08.11.24:996][833]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2023.12.31-08.11.24:996][833]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.31-08.11.24:998][833]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.31-08.11.25:002][833]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.31-08.11.25:014][833]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2023.12.31-08.11.25:014][833]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.12.31-08.11.25:015][833]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.12.31-08.11.25:020][833]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.12.31-08.11.25:071][839]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2023.12.31-08.11.28:252][219]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.11.28:277][219]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UMG/UMG_Manual" FILE="../../../../../Project/Gamemode/Content/Blueprints/UMG/UMG_Manual.uasset" SILENT=true
+[2023.12.31-08.11.28:286][219]LogSavePackage: Moving output files for package: /Game/Blueprints/UMG/UMG_Manual
+[2023.12.31-08.11.28:286][219]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/UMG_Manual139342A8405404688DDD629CAD845FB4.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/UMG/UMG_Manual.uasset'
+[2023.12.31-08.11.28:290][219]LogFileHelpers: InternalPromptForCheckoutAndSave took 38 ms (total: 2.33 sec)
+[2023.12.31-08.11.28:291][219]AssetCheck: New page: Asset Save: UMG_Manual
+[2023.12.31-08.11.28:291][219]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UMG/UMG_Manual.UMG_Manual
+[2023.12.31-08.11.28:806][280]BlueprintLog: New page: Compile UMG_Manual
+[2023.12.31-08.11.28:830][280]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.12.31-08.12.04:500][964]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.12.31-08.12.04:500][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.31-08.12.04:505][964]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.12.31-08.12.04:505][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.31-08.13.02:709][822]LogEditorTransaction: Undo Delete current selection
+[2023.12.31-08.13.12:271][917]LogEditorTransaction: Undo Create Pin Link
+[2023.12.31-08.13.27:407][656]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.13.27:432][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/BP_GM" FILE="../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset" SILENT=true
+[2023.12.31-08.13.27:438][656]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_GM
+[2023.12.31-08.13.27:439][656]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/BP_GM67E0B350426ED3B41749F4978E58E4B2.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset'
+[2023.12.31-08.13.27:442][656]LogFileHelpers: InternalPromptForCheckoutAndSave took 35 ms (total: 2.36 sec)
+[2023.12.31-08.13.27:443][656]AssetCheck: New page: Asset Save: BP_GM
+[2023.12.31-08.13.27:443][656]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameMode/BP_GM.BP_GM
+[2023.12.31-08.13.28:289][758]BlueprintLog: New page: Compile BP_GM
+[2023.12.31-08.13.28:320][758]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.12.31-08.13.43:599][574]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.13.43:624][574]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/BP_GM" FILE="../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset" SILENT=true
+[2023.12.31-08.13.43:630][574]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_GM
+[2023.12.31-08.13.43:630][574]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/BP_GM5DD98D0044673DE38C9EFCABD35D8644.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset'
+[2023.12.31-08.13.43:634][574]LogFileHelpers: InternalPromptForCheckoutAndSave took 35 ms (total: 2.40 sec)
+[2023.12.31-08.13.43:635][574]AssetCheck: New page: Asset Save: BP_GM
+[2023.12.31-08.13.43:635][574]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameMode/BP_GM.BP_GM
+[2023.12.31-08.13.44:489][677]BlueprintLog: New page: Compile BP_GM
+[2023.12.31-08.13.44:518][677]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.12.31-08.14.21:882][412]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.14.21:899][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/BP_GM" FILE="../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset" SILENT=true
+[2023.12.31-08.14.21:906][412]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_GM
+[2023.12.31-08.14.21:906][412]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/BP_GMEBC175ED4826909B1EDCB285CF9B9767.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset'
+[2023.12.31-08.14.21:909][412]LogFileHelpers: InternalPromptForCheckoutAndSave took 27 ms (total: 2.42 sec)
+[2023.12.31-08.14.21:910][412]AssetCheck: New page: Asset Save: BP_GM
+[2023.12.31-08.14.21:910][412]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameMode/BP_GM.BP_GM
+[2023.12.31-08.14.22:638][499]BlueprintLog: New page: Compile BP_GM
+[2023.12.31-08.14.22:665][499]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.12.31-08.15.21:390][289]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.15.21:415][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/BP_GM" FILE="../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset" SILENT=true
+[2023.12.31-08.15.21:422][289]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_GM
+[2023.12.31-08.15.21:423][289]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/BP_GMD7177DA048D344996909AE99783CA9D8.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset'
+[2023.12.31-08.15.21:426][289]LogFileHelpers: InternalPromptForCheckoutAndSave took 36 ms (total: 2.46 sec)
+[2023.12.31-08.15.21:427][289]AssetCheck: New page: Asset Save: BP_GM
+[2023.12.31-08.15.21:427][289]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameMode/BP_GM.BP_GM
+[2023.12.31-08.20.55:138][280]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.20.55:172][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/BP_GM" FILE="../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset" SILENT=true
+[2023.12.31-08.20.55:181][280]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_GM
+[2023.12.31-08.20.55:181][280]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/BP_GM16DFB01C4939443A476D54ADD6DF92FA.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset'
+[2023.12.31-08.20.55:185][280]LogFileHelpers: InternalPromptForCheckoutAndSave took 46 ms (total: 2.51 sec)
+[2023.12.31-08.20.55:186][280]AssetCheck: New page: Asset Save: BP_GM
+[2023.12.31-08.20.55:186][280]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameMode/BP_GM.BP_GM
+[2023.12.31-08.21.27:555][ 18]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.21.27:571][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/BP_GM" FILE="../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset" SILENT=true
+[2023.12.31-08.21.27:582][ 18]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_GM
+[2023.12.31-08.21.27:583][ 18]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/BP_GMCBAF6DE5446CA16D93168C86ECE97D4C.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset'
+[2023.12.31-08.21.27:586][ 18]LogFileHelpers: InternalPromptForCheckoutAndSave took 31 ms (total: 2.54 sec)
+[2023.12.31-08.21.27:587][ 18]AssetCheck: New page: Asset Save: BP_GM
+[2023.12.31-08.21.27:587][ 18]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameMode/BP_GM.BP_GM
+[2023.12.31-08.22.22:211][963]BlueprintLog: New page: Compile BP_GM
+[2023.12.31-08.22.22:240][963]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.12.31-08.22.22:808][ 19]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.22.22:830][ 19]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/BP_GM" FILE="../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset" SILENT=true
+[2023.12.31-08.22.22:841][ 19]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_GM
+[2023.12.31-08.22.22:842][ 19]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/BP_GM6F5DA1E5401F5445979D66830A4D74F4.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset'
+[2023.12.31-08.22.22:844][ 19]LogFileHelpers: InternalPromptForCheckoutAndSave took 37 ms (total: 2.58 sec)
+[2023.12.31-08.22.22:845][ 19]AssetCheck: New page: Asset Save: BP_GM
+[2023.12.31-08.22.22:845][ 19]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameMode/BP_GM.BP_GM
+[2023.12.31-08.22.42:450][332]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.22.42:479][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/BP_GM" FILE="../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset" SILENT=true
+[2023.12.31-08.22.42:491][332]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_GM
+[2023.12.31-08.22.42:491][332]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/BP_GM609B3F664E7E30F78867B499C4D28C9C.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset'
+[2023.12.31-08.22.42:495][332]LogFileHelpers: InternalPromptForCheckoutAndSave took 44 ms (total: 2.62 sec)
+[2023.12.31-08.22.42:496][332]AssetCheck: New page: Asset Save: BP_GM
+[2023.12.31-08.22.42:496][332]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameMode/BP_GM.BP_GM
+[2023.12.31-08.22.42:977][390]BlueprintLog: New page: Compile BP_GM
+[2023.12.31-08.22.43:005][390]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.12.31-08.22.43:116][395]BlueprintLog: New page: Compile BP_GM
+[2023.12.31-08.22.43:145][395]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.12.31-08.23.40:313][219]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.23.40:329][219]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/BP_GM" FILE="../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset" SILENT=true
+[2023.12.31-08.23.40:340][219]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_GM
+[2023.12.31-08.23.40:340][219]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/BP_GM9E4605B4455537E4ACD42CB58FB2DDFE.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset'
+[2023.12.31-08.23.40:344][219]LogFileHelpers: InternalPromptForCheckoutAndSave took 32 ms (total: 2.65 sec)
+[2023.12.31-08.23.40:345][219]AssetCheck: New page: Asset Save: BP_GM
+[2023.12.31-08.23.40:345][219]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameMode/BP_GM.BP_GM
+[2023.12.31-08.23.41:001][298]BlueprintLog: New page: Compile BP_GM
+[2023.12.31-08.23.41:029][298]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.12.31-08.23.55:810][ 57]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.31-08.23.55:814][ 57]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.31-08.23.55:814][ 57]PIE: New page: PIE session: Menu (2024. 1. 1. 오전 2:23:55)
+[2023.12.31-08.23.55:814][ 57]LogPlayLevel: Creating play world package: /Game/Blueprints/Levels/UEDPIE_0_Menu
+[2023.12.31-08.23.55:815][ 57]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000571s)
+[2023.12.31-08.23.55:815][ 57]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Levels/Menu.Menu to /Game/Blueprints/Levels/UEDPIE_0_Menu.Menu (0.000597s)
+[2023.12.31-08.23.55:826][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.12.31-08.23.55:827][ 57]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.31-08.23.55:828][ 57]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.31-08.23.55:828][ 57]LogAIModule: Creating AISystem for world Menu
+[2023.12.31-08.23.55:828][ 57]LogPlayLevel: PIE: World Init took: (0.000872s)
+[2023.12.31-08.23.55:828][ 57]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.12.31-08.23.55:828][ 57]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.31-08.23.55:828][ 57]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.31-08.23.55:828][ 57]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.31-08.23.55:828][ 57]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.31-08.23.55:828][ 57]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.31-08.23.55:828][ 57]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.31-08.23.55:828][ 57]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.31-08.23.55:828][ 57]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.31-08.23.55:829][ 57]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.31-08.23.55:829][ 57]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.31-08.23.55:829][ 57]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.31-08.23.55:831][ 57]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.31-08.23.55:855][ 57]LogAudioMixer: Display: Using Audio Hardware Device 스피커1(Realtek High Definition Audio)
+[2023.12.31-08.23.55:856][ 57]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.31-08.23.55:856][ 57]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.31-08.23.55:856][ 57]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.31-08.23.55:856][ 57]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.12.31-08.23.55:856][ 57]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.12.31-08.23.55:858][ 57]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.12.31-08.23.55:858][ 57]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.12.31-08.23.55:858][ 57]LogInit: FAudioDevice initialized with ID 7.
+[2023.12.31-08.23.55:858][ 57]LogAudio: Display: Audio Device (ID: 7) registered with world 'Menu'.
+[2023.12.31-08.23.55:858][ 57]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2023.12.31-08.23.55:881][ 57]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.31-08.23.55:881][ 57]LogLoad: Game class is 'BP_UMG_GM_C'
+[2023.12.31-08.23.55:881][ 57]LogWorld: Bringing World /Game/Blueprints/Levels/UEDPIE_0_Menu.Menu up for play (max tick rate 0) at 2023.12.31-17.23.55
+[2023.12.31-08.23.55:882][ 57]LogWorld: Bringing up level for play took: 0.000346
+[2023.12.31-08.23.55:884][ 57]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2023.12.31-08.23.55:884][ 57]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.12.31-08.23.55:886][ 57]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.12.31-08.23.55:886][ 57]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.12.31-08.23.55:887][ 57]PIE: Server logged in
+[2023.12.31-08.23.55:888][ 57]PIE: Play in editor total start time 0.074 seconds.
+[2023.12.31-08.23.55:894][ 57]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.12.31-08.23.58:675][381]LogNet: Browse: /Game/Blueprints/Levels/Game
+[2023.12.31-08.23.58:676][381]LogLoad: LoadMap: /Game/Blueprints/Levels/Game
+[2023.12.31-08.23.58:676][381]LogWorld: BeginTearingDown for /Game/Blueprints/Levels/UEDPIE_0_Menu
+[2023.12.31-08.23.58:676][381]LogWorld: UWorld::CleanupWorld for Menu, bSessionEnded=true, bCleanupResources=true
+[2023.12.31-08.23.58:676][381]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.31-08.23.58:722][381]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.31-08.23.58:724][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.12.31-08.23.58:727][381]LogAudio: Display: Audio Device (ID: 7) registered with world 'Game'.
+[2023.12.31-08.23.58:727][381]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.31-08.23.58:728][381]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.31-08.23.58:728][381]LogAIModule: Creating AISystem for world Game
+[2023.12.31-08.23.58:728][381]LogPlayLevel: PIE: World Init took: (0.000648s)
+[2023.12.31-08.23.58:728][381]LogLoad: Game class is 'BP_GM_C'
+[2023.12.31-08.23.58:728][381]LogWorld: Bringing World /Game/Blueprints/Levels/UEDPIE_0_Game.Game up for play (max tick rate 0) at 2023.12.31-17.23.58
+[2023.12.31-08.23.58:729][381]LogWorld: Bringing up level for play took: 0.000336
+[2023.12.31-08.23.58:729][381]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.12.31-08.23.58:731][381]LogLoad: Took 0.055494 seconds to LoadMap(/Game/Blueprints/Levels/Game)
+[2023.12.31-08.24.03:096][905]LogNet: Browse: /Game/Blueprints/Levels/Menu
+[2023.12.31-08.24.03:096][905]LogLoad: LoadMap: /Game/Blueprints/Levels/Menu
+[2023.12.31-08.24.03:096][905]LogWorld: BeginTearingDown for /Game/Blueprints/Levels/UEDPIE_0_Game
+[2023.12.31-08.24.03:096][905]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2023.12.31-08.24.03:097][905]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.31-08.24.03:141][905]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.31-08.24.03:143][905]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.12.31-08.24.03:144][905]LogPlayLevel: Creating play world package: /Game/Blueprints/Levels/UEDPIE_0_Menu
+[2023.12.31-08.24.03:145][905]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000566s)
+[2023.12.31-08.24.03:145][905]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Levels/Menu.Menu to /Game/Blueprints/Levels/UEDPIE_0_Menu.Menu (0.000616s)
+[2023.12.31-08.24.03:145][905]LogAudio: Display: Audio Device (ID: 7) registered with world 'Menu'.
+[2023.12.31-08.24.03:145][905]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.31-08.24.03:145][905]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.31-08.24.03:145][905]LogAIModule: Creating AISystem for world Menu
+[2023.12.31-08.24.03:146][905]LogPlayLevel: PIE: World Init took: (0.000674s)
+[2023.12.31-08.24.03:146][905]LogLoad: Game class is 'BP_UMG_GM_C'
+[2023.12.31-08.24.03:146][905]LogWorld: Bringing World /Game/Blueprints/Levels/UEDPIE_0_Menu.Menu up for play (max tick rate 0) at 2023.12.31-17.24.03
+[2023.12.31-08.24.03:146][905]LogWorld: Bringing up level for play took: 0.000196
+[2023.12.31-08.24.03:146][905]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.12.31-08.24.03:148][905]LogLoad: Took 0.051733 seconds to LoadMap(/Game/Blueprints/Levels/UEDPIE_0_Menu)
+[2023.12.31-08.24.03:630][963]LogNet: Browse: /Game/Blueprints/Levels/Game
+[2023.12.31-08.24.03:630][963]LogLoad: LoadMap: /Game/Blueprints/Levels/Game
+[2023.12.31-08.24.03:630][963]LogWorld: BeginTearingDown for /Game/Blueprints/Levels/UEDPIE_0_Menu
+[2023.12.31-08.24.03:631][963]LogWorld: UWorld::CleanupWorld for Menu, bSessionEnded=true, bCleanupResources=true
+[2023.12.31-08.24.03:631][963]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.31-08.24.03:675][963]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.31-08.24.03:677][963]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.12.31-08.24.03:679][963]LogAudio: Display: Audio Device (ID: 7) registered with world 'Game'.
+[2023.12.31-08.24.03:679][963]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.31-08.24.03:679][963]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.31-08.24.03:679][963]LogAIModule: Creating AISystem for world Game
+[2023.12.31-08.24.03:680][963]LogPlayLevel: PIE: World Init took: (0.000677s)
+[2023.12.31-08.24.03:680][963]LogLoad: Game class is 'BP_GM_C'
+[2023.12.31-08.24.03:680][963]LogWorld: Bringing World /Game/Blueprints/Levels/UEDPIE_0_Game.Game up for play (max tick rate 0) at 2023.12.31-17.24.03
+[2023.12.31-08.24.03:680][963]LogWorld: Bringing up level for play took: 0.000329
+[2023.12.31-08.24.03:680][963]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.12.31-08.24.03:681][963]LogLoad: Took 0.050923 seconds to LoadMap(/Game/Blueprints/Levels/Game)
+[2023.12.31-08.24.04:455][ 56]LogNet: Browse: /Game/Blueprints/Levels/Menu
+[2023.12.31-08.24.04:455][ 56]LogLoad: LoadMap: /Game/Blueprints/Levels/Menu
+[2023.12.31-08.24.04:455][ 56]LogWorld: BeginTearingDown for /Game/Blueprints/Levels/UEDPIE_0_Game
+[2023.12.31-08.24.04:455][ 56]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2023.12.31-08.24.04:455][ 56]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.31-08.24.04:501][ 56]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.31-08.24.04:503][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.12.31-08.24.04:504][ 56]LogPlayLevel: Creating play world package: /Game/Blueprints/Levels/UEDPIE_0_Menu
+[2023.12.31-08.24.04:505][ 56]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000564s)
+[2023.12.31-08.24.04:505][ 56]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Levels/Menu.Menu to /Game/Blueprints/Levels/UEDPIE_0_Menu.Menu (0.000596s)
+[2023.12.31-08.24.04:505][ 56]LogAudio: Display: Audio Device (ID: 7) registered with world 'Menu'.
+[2023.12.31-08.24.04:505][ 56]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.31-08.24.04:505][ 56]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.31-08.24.04:505][ 56]LogAIModule: Creating AISystem for world Menu
+[2023.12.31-08.24.04:505][ 56]LogPlayLevel: PIE: World Init took: (0.000650s)
+[2023.12.31-08.24.04:505][ 56]LogLoad: Game class is 'BP_UMG_GM_C'
+[2023.12.31-08.24.04:505][ 56]LogWorld: Bringing World /Game/Blueprints/Levels/UEDPIE_0_Menu.Menu up for play (max tick rate 0) at 2023.12.31-17.24.04
+[2023.12.31-08.24.04:506][ 56]LogWorld: Bringing up level for play took: 0.000203
+[2023.12.31-08.24.04:506][ 56]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.12.31-08.24.04:508][ 56]LogLoad: Took 0.052493 seconds to LoadMap(/Game/Blueprints/Levels/UEDPIE_0_Menu)
+[2023.12.31-08.24.05:647][193]Cmd: quit
+[2023.12.31-08.24.05:648][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.31-08.24.05:648][193]LogWorld: BeginTearingDown for /Game/Blueprints/Levels/UEDPIE_0_Menu
+[2023.12.31-08.24.05:648][193]LogSlate: Window 'Gamemode Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.12.31-08.24.05:672][193]LogWorld: UWorld::CleanupWorld for Menu, bSessionEnded=true, bCleanupResources=true
+[2023.12.31-08.24.05:672][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.31-08.24.05:674][193]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.31-08.24.05:678][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.31-08.24.05:689][193]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2023.12.31-08.24.05:689][193]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.12.31-08.24.05:692][193]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.12.31-08.24.05:698][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.12.31-08.24.05:753][199]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2023.12.31-08.24.46:954][791]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.24.46:970][791]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/BP_GM" FILE="../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset" SILENT=true
+[2023.12.31-08.24.46:982][791]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_GM
+[2023.12.31-08.24.46:982][791]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/BP_GMBD34138F4E0A8F258A0550B3E0738F02.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset'
+[2023.12.31-08.24.46:986][791]LogFileHelpers: InternalPromptForCheckoutAndSave took 32 ms (total: 2.69 sec)
+[2023.12.31-08.24.46:987][791]AssetCheck: New page: Asset Save: BP_GM
+[2023.12.31-08.24.46:987][791]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameMode/BP_GM.BP_GM
+[2023.12.31-08.24.47:485][851]BlueprintLog: New page: Compile BP_GM
+[2023.12.31-08.24.47:516][851]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.12.31-08.26.12:082][769]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.26.12:112][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/BP_GM" FILE="../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset" SILENT=true
+[2023.12.31-08.26.12:124][769]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_GM
+[2023.12.31-08.26.12:125][769]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/BP_GME23D19A3427A57255579D4A5CF67E592.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset'
+[2023.12.31-08.26.12:129][769]LogFileHelpers: InternalPromptForCheckoutAndSave took 46 ms (total: 2.73 sec)
+[2023.12.31-08.26.12:130][769]AssetCheck: New page: Asset Save: BP_GM
+[2023.12.31-08.26.12:130][769]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameMode/BP_GM.BP_GM
+[2023.12.31-08.26.12:609][827]BlueprintLog: New page: Compile BP_GM
+[2023.12.31-08.26.12:641][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.12.31-08.26.13:571][932]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.26.13:595][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/BP_GM" FILE="../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset" SILENT=true
+[2023.12.31-08.26.13:607][932]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_GM
+[2023.12.31-08.26.13:608][932]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/BP_GM8E0132654A2A8F3936387A8D2D60C17E.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset'
+[2023.12.31-08.26.13:612][932]LogFileHelpers: InternalPromptForCheckoutAndSave took 40 ms (total: 2.77 sec)
+[2023.12.31-08.26.13:612][932]AssetCheck: New page: Asset Save: BP_GM
+[2023.12.31-08.26.13:612][932]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameMode/BP_GM.BP_GM
+[2023.12.31-08.26.22:044][881]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.26.22:069][881]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/BP_GM" FILE="../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset" SILENT=true
+[2023.12.31-08.26.22:082][881]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_GM
+[2023.12.31-08.26.22:082][881]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/BP_GM4ACD627D464F4D611030EAB7D701EDD8.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset'
+[2023.12.31-08.26.22:086][881]LogFileHelpers: InternalPromptForCheckoutAndSave took 41 ms (total: 2.81 sec)
+[2023.12.31-08.26.22:087][881]AssetCheck: New page: Asset Save: BP_GM
+[2023.12.31-08.26.22:087][881]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameMode/BP_GM.BP_GM
+[2023.12.31-08.27.18:828][354]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.12.31-08.27.18:832][354]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.12.31-08.27.18:838][354]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.12.31-08.27.18:848][355]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.12.31-08.27.20:308][531]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_GS
+[2023.12.31-08.27.20:314][531]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.12.31-08.27.20:995][612]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.27.21:012][612]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/BP_GS" FILE="../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GS.uasset" SILENT=true
+[2023.12.31-08.27.21:014][612]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_GS
+[2023.12.31-08.27.21:014][612]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/BP_GSF73A3C9343A38EDBCE24919790F8B658.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GS.uasset'
+[2023.12.31-08.27.21:019][612]LogFileHelpers: InternalPromptForCheckoutAndSave took 25 ms (total: 2.84 sec)
+[2023.12.31-08.27.21:020][612]AssetCheck: New page: Asset Save: BP_GS
+[2023.12.31-08.27.21:020][612]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameMode/BP_GS.BP_GS
+[2023.12.31-08.27.24:682][805]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.12.31-08.27.31:575][623]BlueprintLog: New page: Compile BP_GM
+[2023.12.31-08.27.31:608][623]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.12.31-08.27.46:780][576]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.12.31-08.27.46:784][576]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.12.31-08.27.46:790][576]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.12.31-08.27.46:799][577]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.12.31-08.27.49:152][860]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_PS
+[2023.12.31-08.27.49:157][860]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.12.31-08.27.49:695][924]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.27.49:729][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/BP_PS" FILE="../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_PS.uasset" SILENT=true
+[2023.12.31-08.27.49:731][924]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_PS
+[2023.12.31-08.27.49:731][924]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/BP_PS659C8C3C4CE5BC230E2F158B39922D1B.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_PS.uasset'
+[2023.12.31-08.27.49:737][924]LogFileHelpers: InternalPromptForCheckoutAndSave took 41 ms (total: 2.88 sec)
+[2023.12.31-08.27.49:737][924]AssetCheck: New page: Asset Save: BP_PS
+[2023.12.31-08.27.49:737][924]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameMode/BP_PS.BP_PS
+[2023.12.31-08.27.56:477][727]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/GameMode/BP_GS.BP_GS
+[2023.12.31-08.27.56:478][727]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.31-08.27.56:478][727]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.31-08.27.56:607][727]LogViewport: Scene viewport resized to 988x745, mode Windowed.
+[2023.12.31-08.27.58:148][889]LogViewport: Scene viewport resized to 985x768, mode Windowed.
+[2023.12.31-08.27.58:214][891]LogViewport: Scene viewport resized to 698x507, mode Windowed.
+[2023.12.31-08.27.58:237][892]LogViewport: Scene viewport resized to 467x296, mode Windowed.
+[2023.12.31-08.27.58:293][898]LogViewport: Scene viewport resized to 1525x1235, mode Windowed.
+[2023.12.31-08.27.58:682][942]LogSlate: Window 'BP_GS' being destroyed
+[2023.12.31-08.28.00:685][171]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/GameMode/BP_PS.BP_PS
+[2023.12.31-08.28.00:685][171]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.31-08.28.00:686][171]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.31-08.28.00:799][171]LogViewport: Scene viewport resized to 1525x1235, mode Windowed.
+[2023.12.31-08.28.03:767][513]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.28.03:795][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/BP_GS" FILE="../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GS.uasset" SILENT=true
+[2023.12.31-08.28.03:797][513]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_GS
+[2023.12.31-08.28.03:797][513]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/BP_GS8AD2EDBB4B7966F5FCC432A5954A1451.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GS.uasset'
+[2023.12.31-08.28.03:801][513]LogFileHelpers: InternalPromptForCheckoutAndSave took 33 ms (total: 2.92 sec)
+[2023.12.31-08.28.03:802][513]AssetCheck: New page: Asset Save: BP_GS
+[2023.12.31-08.28.03:802][513]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameMode/BP_GS.BP_GS
+[2023.12.31-08.28.08:567][ 81]BlueprintLog: New page: Compile BP_GS
+[2023.12.31-08.28.08:595][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.12.31-08.28.18:093][400]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.28.18:119][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/BP_PS" FILE="../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_PS.uasset" SILENT=true
+[2023.12.31-08.28.18:121][400]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_PS
+[2023.12.31-08.28.18:121][400]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/BP_PS1D7C8E694CED656DDA9B49BC8C767C76.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_PS.uasset'
+[2023.12.31-08.28.18:125][400]LogFileHelpers: InternalPromptForCheckoutAndSave took 31 ms (total: 2.95 sec)
+[2023.12.31-08.28.18:126][400]AssetCheck: New page: Asset Save: BP_PS
+[2023.12.31-08.28.18:126][400]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameMode/BP_PS.BP_PS
+[2023.12.31-08.28.28:324][618]BlueprintLog: New page: Compile BP_PS
+[2023.12.31-08.28.28:347][618]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.12.31-08.28.28:453][628]BlueprintLog: New page: Compile BP_PS
+[2023.12.31-08.28.28:479][628]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.12.31-08.28.30:585][876]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.28.30:603][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/BP_PS" FILE="../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_PS.uasset" SILENT=true
+[2023.12.31-08.28.30:605][876]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_PS
+[2023.12.31-08.28.30:605][876]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/BP_PSE8440A6B42231888D6FE258E741A4EC5.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_PS.uasset'
+[2023.12.31-08.28.30:609][876]LogFileHelpers: InternalPromptForCheckoutAndSave took 23 ms (total: 2.97 sec)
+[2023.12.31-08.28.30:610][876]AssetCheck: New page: Asset Save: BP_PS
+[2023.12.31-08.28.30:610][876]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameMode/BP_PS.BP_PS
+[2023.12.31-08.28.31:170][943]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2023.12.31-08.28.31:171][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.31-08.28.40:321][141]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.28.40:353][141]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/BP_GS" FILE="../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GS.uasset" SILENT=true
+[2023.12.31-08.28.40:354][141]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_GS
+[2023.12.31-08.28.40:354][141]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/BP_GS025566A54761AA1C67DFB6B543B0CBE1.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GS.uasset'
+[2023.12.31-08.28.40:359][141]LogFileHelpers: InternalPromptForCheckoutAndSave took 38 ms (total: 3.01 sec)
+[2023.12.31-08.28.40:360][141]AssetCheck: New page: Asset Save: BP_GS
+[2023.12.31-08.28.40:360][141]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameMode/BP_GS.BP_GS
+[2023.12.31-08.28.40:482][156]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.28.40:503][156]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/BP_GS" FILE="../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GS.uasset" SILENT=true
+[2023.12.31-08.28.40:505][156]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_GS
+[2023.12.31-08.28.40:505][156]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/BP_GS6FB1B6614BFABF6FC6046DB6D27C104E.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GS.uasset'
+[2023.12.31-08.28.40:508][156]LogFileHelpers: InternalPromptForCheckoutAndSave took 25 ms (total: 3.04 sec)
+[2023.12.31-08.28.40:509][156]AssetCheck: New page: Asset Save: BP_GS
+[2023.12.31-08.28.40:509][156]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameMode/BP_GS.BP_GS
+[2023.12.31-08.29.16:894][443]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.29.16:918][443]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/BP_GS" FILE="../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GS.uasset" SILENT=true
+[2023.12.31-08.29.16:920][443]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_GS
+[2023.12.31-08.29.16:920][443]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/BP_GS3CF73822417BAD02A825C0B5AE430AE7.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GS.uasset'
+[2023.12.31-08.29.16:924][443]LogFileHelpers: InternalPromptForCheckoutAndSave took 29 ms (total: 3.07 sec)
+[2023.12.31-08.29.16:925][443]AssetCheck: New page: Asset Save: BP_GS
+[2023.12.31-08.29.16:925][443]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameMode/BP_GS.BP_GS
+[2023.12.31-08.29.31:890][228]BlueprintLog: New page: Compile BP_GS
+[2023.12.31-08.29.31:915][228]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.12.31-08.29.32:836][333]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.29.32:869][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/BP_GM" FILE="../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset" SILENT=true
+[2023.12.31-08.29.32:882][333]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_GM
+[2023.12.31-08.29.32:882][333]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/BP_GMC013CD2D44E89A4C432CD6860E9ACF05.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset'
+[2023.12.31-08.29.32:886][333]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 3.12 sec)
+[2023.12.31-08.29.32:887][333]AssetCheck: New page: Asset Save: BP_GM
+[2023.12.31-08.29.32:887][333]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameMode/BP_GM.BP_GM
+[2023.12.31-08.29.50:924][492]BlueprintLog: New page: Compile BP_GM
+[2023.12.31-08.29.50:954][492]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.12.31-08.29.53:373][773]BlueprintLog: New page: Compile BP_GS
+[2023.12.31-08.29.53:400][773]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.12.31-08.30.12:177][974]BlueprintLog: New page: Compile BP_GS
+[2023.12.31-08.30.12:201][974]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.12.31-08.30.12:885][ 54]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.30.12:919][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/BP_GS" FILE="../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GS.uasset" SILENT=true
+[2023.12.31-08.30.12:929][ 54]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_GS
+[2023.12.31-08.30.12:930][ 54]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/BP_GSE50FDD1646CB83CB684C238239F34BD2.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GS.uasset'
+[2023.12.31-08.30.12:933][ 54]LogFileHelpers: InternalPromptForCheckoutAndSave took 47 ms (total: 3.16 sec)
+[2023.12.31-08.30.12:934][ 54]AssetCheck: New page: Asset Save: BP_GS
+[2023.12.31-08.30.12:934][ 54]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameMode/BP_GS.BP_GS
+[2023.12.31-08.30.31:092][177]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.30.31:110][177]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/BP_GS" FILE="../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GS.uasset" SILENT=true
+[2023.12.31-08.30.31:112][177]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_GS
+[2023.12.31-08.30.31:113][177]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/BP_GS5C22BF6F4C35E0B30511F4802B0E0157.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GS.uasset'
+[2023.12.31-08.30.31:116][177]LogFileHelpers: InternalPromptForCheckoutAndSave took 24 ms (total: 3.19 sec)
+[2023.12.31-08.30.31:117][177]AssetCheck: New page: Asset Save: BP_GS
+[2023.12.31-08.30.31:117][177]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameMode/BP_GS.BP_GS
+[2023.12.31-08.30.32:023][286]BlueprintLog: New page: Compile BP_GS
+[2023.12.31-08.30.32:050][286]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.12.31-08.31.31:077][ 29]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.31.31:102][ 29]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/BP_GM" FILE="../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset" SILENT=true
+[2023.12.31-08.31.31:116][ 29]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_GM
+[2023.12.31-08.31.31:116][ 29]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/BP_GM7B29170444093BA6B2F6D0A638E8785A.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset'
+[2023.12.31-08.31.31:120][ 29]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 3.23 sec)
+[2023.12.31-08.31.31:121][ 29]AssetCheck: New page: Asset Save: BP_GM
+[2023.12.31-08.31.31:121][ 29]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameMode/BP_GM.BP_GM
+[2023.12.31-08.31.39:519][656]LogSlate: Window 'Delete Variable' being destroyed
+[2023.12.31-08.31.41:324][767]LogSlate: Window 'Delete Variable' being destroyed
+[2023.12.31-08.31.42:658][846]LogSlate: Window 'Delete Variable' being destroyed
+[2023.12.31-08.31.44:221][931]LogSlate: Window 'Delete Variable' being destroyed
+[2023.12.31-08.31.46:442][ 25]LogSlate: Window 'Delete Variable' being destroyed
+[2023.12.31-08.31.48:448][260]BlueprintLog: New page: Compile BP_GM
+[2023.12.31-08.31.48:479][260]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.12.31-08.32.04:499][148]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.32.04:519][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/BP_GM" FILE="../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset" SILENT=true
+[2023.12.31-08.32.04:526][148]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_GM
+[2023.12.31-08.32.04:526][148]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/BP_GMB921810A4A04C4E45E606085011FA1C6.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset'
+[2023.12.31-08.32.04:531][148]LogFileHelpers: InternalPromptForCheckoutAndSave took 31 ms (total: 3.26 sec)
+[2023.12.31-08.32.04:531][148]AssetCheck: New page: Asset Save: BP_GM
+[2023.12.31-08.32.04:531][148]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameMode/BP_GM.BP_GM
+[2023.12.31-08.32.04:990][200]BlueprintLog: New page: Compile BP_GM
+[2023.12.31-08.32.05:018][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.12.31-08.32.05:693][273]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.32.05:710][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/BP_GM" FILE="../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset" SILENT=true
+[2023.12.31-08.32.05:718][273]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_GM
+[2023.12.31-08.32.05:718][273]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/BP_GM4E28FEE54F21E62CA5CDECA281E79E51.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset'
+[2023.12.31-08.32.05:722][273]LogFileHelpers: InternalPromptForCheckoutAndSave took 28 ms (total: 3.29 sec)
+[2023.12.31-08.32.05:723][273]AssetCheck: New page: Asset Save: BP_GM
+[2023.12.31-08.32.05:723][273]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameMode/BP_GM.BP_GM
+[2023.12.31-08.32.12:824][118]BlueprintLog: New page: Compile BP_GS
+[2023.12.31-08.32.12:859][118]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.12.31-08.32.49:243][336]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.32.49:260][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/BP_GM" FILE="../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset" SILENT=true
+[2023.12.31-08.32.49:267][336]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_GM
+[2023.12.31-08.32.49:268][336]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/BP_GM032235E344FAF40EF00723B82BA5E7E1.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset'
+[2023.12.31-08.32.49:272][336]LogFileHelpers: InternalPromptForCheckoutAndSave took 29 ms (total: 3.32 sec)
+[2023.12.31-08.32.49:273][336]AssetCheck: New page: Asset Save: BP_GM
+[2023.12.31-08.32.49:273][336]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameMode/BP_GM.BP_GM
+[2023.12.31-08.32.49:673][384]BlueprintLog: New page: Compile BP_GM
+[2023.12.31-08.32.49:676][384]LogBlueprint: Error: [AssetLog] H:\Project\Gamemode\Content\Blueprints\GameMode\BP_GM.uasset: [Compiler] The property associated with  GMRef  could not be found in '/Game/Blueprints/GameMode/BP_GM.BP_GM_C'
+[2023.12.31-08.32.49:703][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.12.31-08.32.49:993][412]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.32.50:010][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/BP_GM" FILE="../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset" SILENT=true
+[2023.12.31-08.32.50:017][412]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_GM
+[2023.12.31-08.32.50:017][412]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/BP_GM073D0F174D8880C276C75C95F39C9DB7.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset'
+[2023.12.31-08.32.50:023][412]LogFileHelpers: InternalPromptForCheckoutAndSave took 29 ms (total: 3.35 sec)
+[2023.12.31-08.32.50:023][412]AssetCheck: New page: Asset Save: BP_GM
+[2023.12.31-08.32.50:023][412]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameMode/BP_GM.BP_GM
+[2023.12.31-08.33.21:340][107]BlueprintLog: New page: Compile BP_GM
+[2023.12.31-08.33.21:343][107]LogBlueprint: Error: [AssetLog] H:\Project\Gamemode\Content\Blueprints\GameMode\BP_GM.uasset: [Compiler] The property associated with  GMRef  could not be found in '/Game/Blueprints/GameMode/BP_GM.BP_GM_C'
+[2023.12.31-08.33.21:370][107]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.12.31-08.33.21:849][159]BlueprintLog: New page: Compile BP_GM
+[2023.12.31-08.33.21:852][159]LogBlueprint: Error: [AssetLog] H:\Project\Gamemode\Content\Blueprints\GameMode\BP_GM.uasset: [Compiler] The property associated with  GMRef  could not be found in '/Game/Blueprints/GameMode/BP_GM.BP_GM_C'
+[2023.12.31-08.33.21:879][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.12.31-08.33.21:990][167]BlueprintLog: New page: Compile BP_GM
+[2023.12.31-08.33.21:993][167]LogBlueprint: Error: [AssetLog] H:\Project\Gamemode\Content\Blueprints\GameMode\BP_GM.uasset: [Compiler] The property associated with  GMRef  could not be found in '/Game/Blueprints/GameMode/BP_GM.BP_GM_C'
+[2023.12.31-08.33.22:020][167]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.12.31-08.33.27:232][787]BlueprintLog: New page: Compile BP_GS
+[2023.12.31-08.33.27:242][787]LogClass: Warning: Type mismatch in GMRef of BP_GS_C - Previous (BoolProperty) Current(ObjectProperty) for package:  FObjectReader
+[2023.12.31-08.33.27:269][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.12.31-08.33.28:798][959]BlueprintLog: New page: Compile BP_GM
+[2023.12.31-08.33.28:827][959]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.12.31-08.33.34:734][658]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.33.34:768][658]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/BP_GM" FILE="../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset" SILENT=true
+[2023.12.31-08.33.34:776][658]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_GM
+[2023.12.31-08.33.34:776][658]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/BP_GMBC970B0F4CDC29D520F62194A529F1C4.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GM.uasset'
+[2023.12.31-08.33.34:780][658]LogFileHelpers: InternalPromptForCheckoutAndSave took 46 ms (total: 3.40 sec)
+[2023.12.31-08.33.34:781][658]AssetCheck: New page: Asset Save: BP_GM
+[2023.12.31-08.33.34:781][658]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameMode/BP_GM.BP_GM
+[2023.12.31-08.33.35:331][724]BlueprintLog: New page: Compile BP_GM
+[2023.12.31-08.33.35:359][724]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.12.31-08.33.36:422][842]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.33.36:450][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/BP_GS" FILE="../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GS.uasset" SILENT=true
+[2023.12.31-08.33.36:453][842]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_GS
+[2023.12.31-08.33.36:453][842]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/BP_GS5847F43C46276B23D0EE92AF5460934C.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GS.uasset'
+[2023.12.31-08.33.36:458][842]LogFileHelpers: InternalPromptForCheckoutAndSave took 35 ms (total: 3.43 sec)
+[2023.12.31-08.33.36:458][842]AssetCheck: New page: Asset Save: BP_GS
+[2023.12.31-08.33.36:458][842]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameMode/BP_GS.BP_GS
+[2023.12.31-08.33.59:668][578]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.33.59:694][578]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/BP_GS" FILE="../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GS.uasset" SILENT=true
+[2023.12.31-08.33.59:697][578]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_GS
+[2023.12.31-08.33.59:697][578]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/BP_GSD82A769F466408B72E33AA86F124B364.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GS.uasset'
+[2023.12.31-08.33.59:701][578]LogFileHelpers: InternalPromptForCheckoutAndSave took 33 ms (total: 3.47 sec)
+[2023.12.31-08.33.59:702][578]AssetCheck: New page: Asset Save: BP_GS
+[2023.12.31-08.33.59:702][578]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameMode/BP_GS.BP_GS
+[2023.12.31-08.35.01:367][795]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.35.01:384][795]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/BP_GS" FILE="../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GS.uasset" SILENT=true
+[2023.12.31-08.35.01:391][795]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_GS
+[2023.12.31-08.35.01:391][795]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/BP_GSA1DB5CB3499B3741D52D3A9DB75F0765.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GS.uasset'
+[2023.12.31-08.35.01:395][795]LogFileHelpers: InternalPromptForCheckoutAndSave took 27 ms (total: 3.49 sec)
+[2023.12.31-08.35.01:396][795]AssetCheck: New page: Asset Save: BP_GS
+[2023.12.31-08.35.01:396][795]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameMode/BP_GS.BP_GS
+[2023.12.31-08.35.19:648][991]BlueprintLog: New page: Compile BP_GS
+[2023.12.31-08.35.19:687][991]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.12.31-08.35.20:052][ 24]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.35.20:083][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/BP_GS" FILE="../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GS.uasset" SILENT=true
+[2023.12.31-08.35.20:090][ 24]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_GS
+[2023.12.31-08.35.20:090][ 24]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/BP_GSA8F67C5A4A1DA991E2079F81D8212423.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GS.uasset'
+[2023.12.31-08.35.20:094][ 24]LogFileHelpers: InternalPromptForCheckoutAndSave took 41 ms (total: 3.54 sec)
+[2023.12.31-08.35.20:095][ 24]AssetCheck: New page: Asset Save: BP_GS
+[2023.12.31-08.35.20:095][ 24]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameMode/BP_GS.BP_GS
+[2023.12.31-08.36.00:463][361]BlueprintLog: New page: Compile BP_GS
+[2023.12.31-08.36.00:499][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.12.31-08.36.01:110][425]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.36.01:142][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/BP_GS" FILE="../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GS.uasset" SILENT=true
+[2023.12.31-08.36.01:149][425]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_GS
+[2023.12.31-08.36.01:149][425]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/BP_GS3CFDF00940F7594176A68BBE755DA3B3.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GS.uasset'
+[2023.12.31-08.36.01:154][425]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 3.58 sec)
+[2023.12.31-08.36.01:154][425]AssetCheck: New page: Asset Save: BP_GS
+[2023.12.31-08.36.01:154][425]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameMode/BP_GS.BP_GS
+[2023.12.31-08.36.34:414][337]LogEditorTransaction: Undo Straighten Connection(s)
+[2023.12.31-08.37.10:207][486]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.37.10:233][486]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/BP_GS" FILE="../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GS.uasset" SILENT=true
+[2023.12.31-08.37.10:241][486]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_GS
+[2023.12.31-08.37.10:241][486]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/BP_GS40D0E97348C437DC9D9300BB40072A12.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GS.uasset'
+[2023.12.31-08.37.10:246][486]LogFileHelpers: InternalPromptForCheckoutAndSave took 38 ms (total: 3.62 sec)
+[2023.12.31-08.37.10:246][486]AssetCheck: New page: Asset Save: BP_GS
+[2023.12.31-08.37.10:246][486]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameMode/BP_GS.BP_GS
+[2023.12.31-08.37.10:871][561]BlueprintLog: New page: Compile BP_GS
+[2023.12.31-08.37.10:902][561]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.12.31-08.37.11:259][597]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.37.11:275][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/BP_GS" FILE="../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GS.uasset" SILENT=true
+[2023.12.31-08.37.11:282][597]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_GS
+[2023.12.31-08.37.11:283][597]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/BP_GSEE9292494F0D6D4F1A502CB1CC77B685.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GS.uasset'
+[2023.12.31-08.37.11:287][597]LogFileHelpers: InternalPromptForCheckoutAndSave took 27 ms (total: 3.65 sec)
+[2023.12.31-08.37.11:287][597]AssetCheck: New page: Asset Save: BP_GS
+[2023.12.31-08.37.11:288][597]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameMode/BP_GS.BP_GS
+[2023.12.31-08.37.11:732][650]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.31-08.37.11:759][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/BP_GS" FILE="../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GS.uasset" SILENT=true
+[2023.12.31-08.37.11:767][650]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_GS
+[2023.12.31-08.37.11:767][650]LogSavePackage: Moving '../../../../../Project/Gamemode/Saved/BP_GS279098FB4BDF117F87CBB3947A173B74.tmp' to '../../../../../Project/Gamemode/Content/Blueprints/GameMode/BP_GS.uasset'
+[2023.12.31-08.37.11:772][650]LogFileHelpers: InternalPromptForCheckoutAndSave took 39 ms (total: 3.69 sec)
+[2023.12.31-08.37.11:773][650]AssetCheck: New page: Asset Save: BP_GS
+[2023.12.31-08.37.11:773][650]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameMode/BP_GS.BP_GS
+[2023.12.31-08.37.42:428][358]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.12.31-08.37.42:428][358]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2023.12.31-08.37.42:428][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.31-08.37.44:994][661]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.12.31-08.37.44:994][661]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.12.31-08.37.44:994][661]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
